@@ -1,4 +1,4 @@
-abandon
+﻿abandon
 abandons
 abbreviate
 abbreviates

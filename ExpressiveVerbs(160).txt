@@ -1,4 +1,4 @@
-abide
+﻿abide
 accredit
 affix
 afflict

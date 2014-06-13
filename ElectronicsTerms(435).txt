@@ -1,4 +1,4 @@
-agonic
+﻿agonic
 ammeter
 ammeters
 amplidyne

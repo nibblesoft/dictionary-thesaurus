@@ -1,4 +1,4 @@
-Lesson 1
+﻿Lesson 1
 1. bad
 2. had
 3. mad
@@ -223,7 +223,7 @@ Lesson 20
 8. I'll
 9. you're
 10. loom
- Lesson 21
+Lesson 21
 1. boom
 2. gloom
 3. bloom
@@ -450,8 +450,3 @@ Lesson 40
 6. elbow
 7. mow
 8. stow
- 
-
-  
-
- 

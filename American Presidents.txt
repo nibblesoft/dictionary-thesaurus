@@ -1,44 +1,44 @@
-First		 George Washington	1789-1797 
+﻿First		 George Washington	1789-1797
 Second		 John Adams	1797-1801
-Third		 Thomas Jefferson	1801-1809 
-Fourth		 James Madison	1809-1817 
-Fifth		 James Monroe	1817-1825 
-Sixth	         John Quincy Adams	1825-1829 
-Seventh	         Andrew Jackson	1829-1837 
-Eighth	         Martin Van Buren	1837-1841 
+Third		 Thomas Jefferson	1801-1809
+Fourth		 James Madison	1809-1817
+Fifth		 James Monroe	1817-1825
+Sixth	         John Quincy Adams	1825-1829
+Seventh	         Andrew Jackson	1829-1837
+Eighth	         Martin Van Buren	1837-1841
 Ninth	         William Henry Harrison	1841
-Tenth 	         John Tyler	1841-1845 
-Eleventh	 James Knox Polk	1845-1849 
-Twelth	         Zachary Taylor	1849-1850 
-Thirteenth	 Millard Fillmore	1850-1853 
-Fourteenth	 Franklin Pierce	1853-1857 
+Tenth 	         John Tyler	1841-1845
+Eleventh	 James Knox Polk	1845-1849
+Twelth	         Zachary Taylor	1849-1850
+Thirteenth	 Millard Fillmore	1850-1853
+Fourteenth	 Franklin Pierce	1853-1857
 Fifteenth	 James Buchanan	1857-1861
-Sixteenth	 Abraham Lincoln	1861-1865 
-Seventeenth	 Andrew Johnson	1865-1869 
-Eighteenth	 Ulysses Simpson Grant	1869-1877 
-Nineteenth	 Rutherford Birchard Hayes	1877-1881 
+Sixteenth	 Abraham Lincoln	1861-1865
+Seventeenth	 Andrew Johnson	1865-1869
+Eighteenth	 Ulysses Simpson Grant	1869-1877
+Nineteenth	 Rutherford Birchard Hayes	1877-1881
 Twentieth	 James Abram Garfield	1881
 Twenty - First	 Chester Alan Arthur	1881-1885
-Twenty-Second	 Grover Cleveland	1885-1889 
+Twenty-Second	 Grover Cleveland	1885-1889
 Twenty - Third	 Benjamin Harrison	1889-1893
-Twenty - Fourth	 Grover Cleveland	1893-1897 
-Twenty - Fifth	 William McKinley	1897-1901 
-Twenty - Sixth	 Theodore Roosevelt	1901-1909 
-Twenty - Seventh William Howard Taft	1909-1913 
-Twenty - Eighth	 Woodrow Wilson	1913-1921 
-Twenty- Ninth	 Warren Gamaliel Harding	1921-1923 
+Twenty - Fourth	 Grover Cleveland	1893-1897
+Twenty - Fifth	 William McKinley	1897-1901
+Twenty - Sixth	 Theodore Roosevelt	1901-1909
+Twenty - Seventh William Howard Taft	1909-1913
+Twenty - Eighth	 Woodrow Wilson	1913-1921
+Twenty- Ninth	 Warren Gamaliel Harding	1921-1923
 Thirtieth	 Calvin Coolidge	1923-1929
-Thirty- First	 Herbert Clark Hoover	1929-1933 
-Thirty - Second	 Franklin Delano Roosevelt	1933-1945 
-Thirty - Third	 Harry S. Truman	1945-1953 
-Thirty - Fourth	 Dwight David Eisenhower	1953-1961 
+Thirty- First	 Herbert Clark Hoover	1929-1933
+Thirty - Second	 Franklin Delano Roosevelt	1933-1945
+Thirty - Third	 Harry S. Truman	1945-1953
+Thirty - Fourth	 Dwight David Eisenhower	1953-1961
 Thirty - Fifth	 John Fitzgerald Kennedy	1961-1963
-Thirty - Sixth	 Lyndon Baines Johnson	1963-1969 
-Thirty - Seventh Richard Milhous Nixon	1969-1974 
-Thirty - Eighth	 Gerald Rudolph Ford	1974-1977 
+Thirty - Sixth	 Lyndon Baines Johnson	1963-1969
+Thirty - Seventh Richard Milhous Nixon	1969-1974
+Thirty - Eighth	 Gerald Rudolph Ford	1974-1977
 Thirty - Ninth	 Jimmy Carter	1977-1981
-Fortieth	 Ronald Wilson Reagan	1981-1989 
+Fortieth	 Ronald Wilson Reagan	1981-1989
 Forty - First	 George Herbert Walker Bush	1989-1993
-Forty - Second	 William Jefferson Clinton	1993-2001 
+Forty - Second	 William Jefferson Clinton	1993-2001
 Forty - Third	 George Walker Bush	2001-2008
 Forty - Fourth	 Barack Obama		2009- incumbent

@@ -1,4 +1,4 @@
-all
+﻿all
 any
 both
 each
@@ -10,10 +10,3 @@ none
 numerous
 several
 some
-
-
-
-
-
-
-

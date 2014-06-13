@@ -1,4 +1,4 @@
-Ace! : Excellent! Very good!
+﻿Ace! : Excellent! Very good!
 Aerial pingpong: Australian Rules football
 Amber fluid: beer
 Ankle biter: small child
@@ -13,7 +13,7 @@ Bail out: depart, usually angrily
 Bail (somebody) up: to corner somebody physically
 Barbie: barbecue (noun)
 Banana bender: a person from Queensland
-Barrack: to cheer on (football team etc.) 
+Barrack: to cheer on (football team etc.)
 Bastard: term of endearment
 Battler: someone working hard and only just making a living
 Beaut, beauty: great, fantastic
@@ -42,7 +42,7 @@ Bonzer: great, ripper
 Boogie board: a hybrid, half-sized surf board
 Boomer: a large male kangaroo
 Booze bus: police vehicle used for catching drunk drivers
-Boozer: a pub 
+Boozer: a pub
 Bored shitless: very bored
 Bottle-o: liquor shop
 Bottle shop: liquor shop
@@ -153,7 +153,7 @@ Fruit loop: fool
 Full: drunk
 Galah: fool, named after the bird of the same name which flies south in the winter - a bloody silly thing to do in the Southern Hemisphere
 Garbo, garbologist: municipal garbage collector
-G'Day: hello! 
+G'Day: hello!
 Give it a burl: try it, have a go
 Gobful, give a: to abuse, usually justifiably ("The neighbours were having a noisy party so I went and gave them a gobful")
 Going off: used of a night spot or party that is a lot of fun - "the place was really going off"
@@ -170,7 +170,7 @@ Gyno: gynaecologist
 Handle: beer glass with a handle
 Heaps: a lot, e.g. "thanks heaps", "(s)he earned heaps of money" etc.
 Hoon: hooligan
-Hooroo: goodbye (� Don Burke)
+Hooroo: goodbye (© Don Burke)
 Hotel: often just a pub
 Hottie: hot water bottle
 Icy pole, ice block: popsicle, lollypop
@@ -222,7 +222,7 @@ Muster: round up sheep or cattle
 Naughty, have a: have sex
 Never Never: the Outback, centre of Australia
 Nipper: young surf lifesaver
-No-hoper: somebody who'll never do well 
+No-hoper: somebody who'll never do well
 Not the full quid: not bright intellectually
 No worries!: Expression of forgiveness or reassurance (No problem; forget about it; I can do it; Yes, I'll do it)
 Nuddy, in the: naked
@@ -232,7 +232,7 @@ Offsider: an assistant, helper
 Oldies: parents - "I'll have to ask my oldies"
 O.S.: overseas ("he's gone O.S.")
 Outback: interior of Australia
-Oz: Australia! 
+Oz: Australia!
 Pash: a long passionate kiss; hence "pashing on"
 Pav: Pavlova - a rich, creamy Australian dessert
 Perve (noun & verb): looking lustfully at the opposite sex
@@ -260,7 +260,7 @@ Rage on: to continue partying - "we raged on until 3am"
 Rapt: pleased, delighted
 Ratbag: mild insult
 Raw prawn, to come the: to bullshit, to be generally disagreeable
-Reckon!: you bet! Absolutely! 
+Reckon!: you bet! Absolutely!
 Reffo: refugee
 Rego: vehicle registration
 Rellie: family relative
@@ -271,11 +271,11 @@ Rip snorter: great, fantastic - "it was a rip snorter of a party"
 Road train: big truck with many trailers
 Rollie: a cigarette that you roll yourself
 Roo: kangaroo
-Root (verb and noun): synonym for f*ck in nearly all its senses: "I feel rooted"; "this washing machine is rooted"; "(s)he's a good root". A very useful word in fairly polite company. 
+Root (verb and noun): synonym for f*ck in nearly all its senses: "I feel rooted"; "this washing machine is rooted"; "(s)he's a good root". A very useful word in fairly polite company.
 Ropeable: very angry
 Rort (verb or noun): Cheating, fiddling, defrauding (expenses, the system etc.). Usually used of politicians
 Rotten: drunk ("I went out last night and got rotten")
-Rubbish (verb): to criticize 
+Rubbish (verb): to criticize
 Salvos, the: Salvation Army, bless them
 Salute, Aussie: brushing flies away
 Sandgroper: a person from Western Australia
@@ -309,7 +309,7 @@ Stickybeak: nosy person
 Strewth: exclamation, mild oath ("Strewth, that Chris is a bonzer bloke")
 Strides: trousers
 Strine: Australian slang and pronunciation
-Stubby: a 375ml. beer bottle 
+Stubby: a 375ml. beer bottle
 Stubby holder: polystyrene insulated holder for a stubby
 Stuffed, I'll be: expression of surprise
 Stuffed, I feel: I'm tired
@@ -320,15 +320,15 @@ Swag: rolled up bedding etc. carried by a swagman
 Swaggie: swagman
 Swagman: tramp, hobo
 Tall poppies: successful people
-Taswegian: a person from Tasmania 
+Taswegian: a person from Tasmania
 Technicolor yawn: vomit
 Tee-up: to set up (an appointment)
 Thingo: Wadjamacallit, thingummy, whatsit
 Thongs: cheap rubber backless sandals
 Tickets, to have on oneself: to have a high opinion of oneself
-Tinny: can of beer, small aluminium boat 
+Tinny: can of beer, small aluminium boat
 Togs: swim suit
-Too right!: definitely! 
+Too right!: definitely!
 Top End: far north of Australia
 Trackies: track suit
 Truckie: truck driver
@@ -364,5 +364,5 @@ Yabber: talk (a lot)
 Yakka: work (noun)
 Yewy: u-turn in traffic ("chuck a yewy at the next traffic lights")
 Yobbo: an uncouth person
-Youse: you 
-Zack: sixpence (5 cents) - "it isn't worth a zack", "he hasn't got a zack"  
+Youse: you
+Zack: sixpence (5 cents) - "it isn't worth a zack", "he hasn't got a zack"

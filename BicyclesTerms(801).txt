@@ -1,4 +1,4 @@
-105(r)
+Ôªø105(r)
 3rdhand
 4thhand
 531(r)
@@ -12,10 +12,10 @@ Acornnut
 Adaptorclaw
 Adjustingbarrel
 Adjustablecup
-∆rial
-∆rodynamic
-∆ro Bars
-∆robrakelevers
+√Ürial
+√Ürodynamic
+√Üro Bars
+√Ürobrakelevers
 Aftermarket
 Aheadset(r)
 Airless Tires
@@ -150,7 +150,7 @@ Chopper(c)
 Chrome,Chromium
 Chrome-Moly
 Cinelli
-Ciˆcc
+Ci√∂cc
 Claw
 Clearance
 Cleat
@@ -341,7 +341,7 @@ Head Tube
 Helicomatic(r)
 Hellenic Stays
 Helmet
-RenÈHerse
+Ren√©Herse
 Hetchins
 H.F.
 High(Gear)
@@ -413,7 +413,7 @@ Lug
 L.W.B.
 Lycra(r)
 Lygie
-MÊs
+M√¶s
 Madison
 Maserati
 Masi
@@ -439,7 +439,7 @@ Monark Crescent
 Mondia
 Monkey Wrench
 Monocoque
-MotobÈcane
+Motob√©cane
 Motorpace
 Moulton(r)
 Moustache(r)Handlebar
@@ -521,7 +521,7 @@ Rake
 Raleigh(r)
 Raleigh
 Raleigh Pattern Rim
-RandonnÈe
+Randonn√©e
 Randonneur
 Rapidfire(r)
 Ratchet
@@ -533,7 +533,7 @@ Rear Center
 Recessed Brake Mount
 Recumbent
 Reflector
-RenÈHerse
+Ren√©Herse
 Retainer
 Reynolds(r)
 Ribbon
@@ -760,7 +760,7 @@ U.S.S.
 Unicrown
 Valve
 V-Brake(r)
-VÈlo
+V√©lo
 Velodrome
 Vise-Grip(r)
 Washer

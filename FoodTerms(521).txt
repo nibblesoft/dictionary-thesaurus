@@ -1,4 +1,4 @@
-Alaminut
+ï»¿Alaminut
 ALa
 Au
 Aux
@@ -143,7 +143,7 @@ Clotted Cream
 Cock
 Cocoa Powder
 Coconut Milk
-Coeuràla Crème
+CoeurÃ la CrÃ¨me
 Coeurela Creme
 Collard Greens
 Colombo
@@ -302,7 +302,7 @@ Lobster Mushroom
 Lutefisk
 Lychee
 Lyonnaise Sauce
-Lyonnaiseàla
+LyonnaiseÃ la
 Macaire
 Macaroon
 Macedoine
@@ -380,14 +380,14 @@ Pasilla Chili Pepper
 Pastae Fagioli
 Pastilla(Bistella)
 Pastry Cream
-Pâté
-Pâté
-PâtéChoux
-Pâtéa Foncer
-PâtéBrisée
-PâtéFeuilletae
-PâtéSablée
-PâtéSucrée
+PÃ¢tÃ©
+PÃ¢tÃ©
+PÃ¢tÃ©Choux
+PÃ¢tÃ©a Foncer
+PÃ¢tÃ©BrisÃ©e
+PÃ¢tÃ©Feuilletae
+PÃ¢tÃ©SablÃ©e
+PÃ¢tÃ©SucrÃ©e
 Paupiette
 Penne
 Perilla
@@ -474,7 +474,7 @@ Tamarind
 Tapenade
 Taramasalata
 Tartare
-Tarte Flambé
+Tarte FlambÃ©
 Tarte Tatin
 Terrine
 Tiramisu
@@ -498,7 +498,7 @@ Udon
 Ugli
 Vacherin
 Vanilla
-Velouté
+VeloutÃ©
 Vermicelli
 Vichyssoise
 Victual

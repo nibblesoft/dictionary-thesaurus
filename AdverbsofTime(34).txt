@@ -1,4 +1,4 @@
-after
+﻿after
 afterwards
 always
 at the same time as
@@ -31,4 +31,3 @@ today
 tomorrow
 usually
 yesterday
-

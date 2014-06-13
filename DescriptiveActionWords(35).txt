@@ -1,4 +1,4 @@
-angrily
+﻿angrily
 anxiously
 brightly
 cheerfully

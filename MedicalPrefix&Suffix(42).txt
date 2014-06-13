@@ -1,4 +1,4 @@
--ac
+﻿-ac
 -al
 -ic
 -ical

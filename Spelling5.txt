@@ -1,4 +1,4 @@
-Lesson 1
+﻿Lesson 1
 1. suggest
 2. statue
 3. boast
@@ -169,7 +169,7 @@ Lesson 10
 13. furious
 14. curious
 15. helicopter
- Lesson 11
+Lesson 11
 1. optic
 2. optimistic
 3. adopt
@@ -328,7 +328,7 @@ Lesson 20
 10. importance
 11. entrance
 12. adorable
- Lesson 21
+Lesson 21
 1. acceptable
 2. honorable
 3. valuable
@@ -474,7 +474,7 @@ Lesson 30
 12. mischief
 13. misunderstand
 14. probable
- Lesson 31
+Lesson 31
 1. suitable
 2. miserable
 3. regrettable
@@ -630,7 +630,3 @@ Lesson 40
 10. quotient
 11. confident
 12. continent
- 
-  
-
- 

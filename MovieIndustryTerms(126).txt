@@ -1,4 +1,4 @@
-abbysinger
+﻿abbysinger
 action
 actor
 actress
@@ -71,7 +71,7 @@ chutecowboys
 cinchmarks
 cinema
 cinemaaudio
-cinemaverit�
+cinemaverité
 cinematographer
 clapboard
 claymation
@@ -124,6 +124,3 @@ draftsman
 driver
 dubbing
 dutchtilt
-
-
-

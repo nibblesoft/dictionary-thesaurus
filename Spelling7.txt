@@ -1,4 +1,4 @@
-Lesson 1
+﻿Lesson 1
 1. recruit
 2. piercing
 3. weirdest
@@ -268,7 +268,7 @@ Lesson 10
 23. tangible
 24. immoral
 25. precision
- Lesson 11
+Lesson 11
 1. opinion
 2. material
 3. ensure
@@ -537,7 +537,7 @@ Lesson 20
 24. boundary
 25. caribou
 
- Lesson 21
+Lesson 21
 1. bagel
 2. hurricane
 3. jaguar
@@ -805,7 +805,7 @@ Lesson 30
 24. extends
 25. ravioli
 
- Lesson 31
+Lesson 31
 1. miscalculation
 2. reconsider
 3. emergency
@@ -1073,8 +1073,3 @@ Lesson 40
 22. linear
 23. pentahedron
 24. vertex
- 
-
-  
-
- 

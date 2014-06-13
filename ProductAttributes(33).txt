@@ -1,4 +1,4 @@
-Amount
+﻿Amount
 Color
 Component
 Count

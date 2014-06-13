@@ -1,4 +1,4 @@
-Lesson 1
+﻿Lesson 1
 1. ecclesiastic
 2. accurately
 3. accosted
@@ -173,7 +173,7 @@ Lesson 10
 13. inept
 14. innocence
 15. legitimate
- Lesson 11
+Lesson 11
 1. perpetuate
 2. elucidate
 3. anticipate
@@ -368,7 +368,7 @@ Lesson 20
 14. indelible
 15. memorandum
 
- Lesson 21
+Lesson 21
 1. museum
 2. verbatim
 3. euphemism
@@ -551,7 +551,7 @@ Lesson 30
 13. expunging
 14. sweltering
 15. spiritual
- Lesson 31
+Lesson 31
 1. betrayal
 2. frugal
 3. recital
@@ -734,8 +734,3 @@ Lesson 40
 13. unacceptable
 14. succession
 15. tobacco
- 
-
-  
-
- 

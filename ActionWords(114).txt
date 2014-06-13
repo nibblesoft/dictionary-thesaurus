@@ -1,4 +1,4 @@
-bark
+﻿bark
 blend
 blast
 boast
@@ -68,7 +68,7 @@ clang
 clap
 click
 clash
-crush 
+crush
 cut
 dash
 follow
@@ -112,4 +112,3 @@ weep
 whip
 whisper
 wrestle
-

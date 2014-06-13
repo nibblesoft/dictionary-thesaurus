@@ -1,39 +1,39 @@
-babe - woman 
+﻿babe - woman
 baby - a person
-bangtails - racehorses 
-barbering - talking 
-be on the nut, to - to be broke 
-bean-shooter - gun 
+bangtails - racehorses
+barbering - talking
+be on the nut, to - to be broke
+bean-shooter - gun
 bent cars - stolen cars
-berries - dollars 
+berries - dollars
 big house - jail
-big one, the - death 
-big sleep, the - death 
-bim - woman 
+big one, the - death
+big sleep, the - death
+bim - woman
 bindles (of heroin) - little folded-up pieces of paper (with heroin inside)
-bing - crazy 
-bird - guy 
-blip off - to kill 
+bing - crazy
+bird - guy
+blip off - to kill
 blow - leave
-blow one down - kill someone 
-bo - pal, buster, fellow, as in "Hey, bo" 
-boiler - car 
-boob - dumb guy 
-boozehound - drunkard 
-bop - to kill 
-box job - a safecracking 
-brace (somebody) - grab, shake up 
-bracelets - handcuffs 
-break it up - stop that, quit the nonsense 
-breeze - to leave, go 
-broad - woman 
-bulge, as in "The kid had the bulge there" - the advantage 
-bulls - cops 
+blow one down - kill someone
+bo - pal, buster, fellow, as in "Hey, bo"
+boiler - car
+boob - dumb guy
+boozehound - drunkard
+bop - to kill
+box job - a safecracking
+brace (somebody) - grab, shake up
+bracelets - handcuffs
+break it up - stop that, quit the nonsense
+breeze - to leave, go
+broad - woman
+bulge, as in "The kid had the bulge there" - the advantage
+bulls - cops
 bump - kill (Night, 35)
 bump off - kill (Pick-Up, 32); also, bump-off - a killing (Sleep, 161)
 buncoing some (people) - defrauding some people (Knockover, 205)
 bunk - 1) as in "That's the bunk" - that's false, untrue (Op, 98); 2) as
-     in "to bunk" - to sleep (Knockover, 395)
+in "to bunk" - to sleep (Knockover, 395)
 bunny, as in "Don't be a bunny" - don't be stupid (Pick-Up, 32)
 burn powder - fire a gun (Knockover, 425)
 bus - big car (Pick-Up, 72)
@@ -43,7 +43,7 @@ buttons - police (Pick-Up, 29; Sleep, 66)
 butts - cigarettes (Vengeance, 25)
 buy a drink - to pour a drink (Art, 139)
 buzz, as in "I'm in the dump an hour and the house copper gives me the
-     buzz" - looks me up, comes to my door (Art, 90)
+buzz" - looks me up, comes to my door (Art, 90)
 buzzer - policeman's badge (Playback, 103)
 C - $100, also a pair of C's = $200 (Vengeance, 27; Sleep, 157)
 cabbage - money (Shoot, 14)
@@ -52,7 +52,7 @@ call copper - inform the police (Pick-Up, 156)
 can - jail (Knockover, 203; Op, 268)
 can-opener - safecracker who forces open cheap safes (Speaking, 89)
 case dough - "nest egg ... the theoretically untouchable reserve for
-     emergencies" (Speaking, 88)
+emergencies" (Speaking, 88)
 cat - guy (Shoot, 16)
 century - $100 (Pick-Up, 32; Sleep, 162)
 chew - eat (Op, 186)
@@ -61,38 +61,38 @@ chick - woman (Vengeance, 33)
 chilled off - killed (Sleep, 78)
 chin - a conversation (Art, 190); also chinning = talking (Sleep, 85)
 Chinese angle, as in "You're not trying to find a Chinese angle on it,
-     are you?" - seems to mean a strange twist, not that Chinese people
-     are actually involved (Thin, 125)
+are you?" - seems to mean a strange twist, not that Chinese people
+are actually involved (Thin, 125)
 chippy - woman of easy virtue (Lake, 48)
 chisel - to swindle or cheat (Pick-Up, 157)
 chiv, chive - knife, "a stabbing or cutting weapon" (Speaking, 87;
-     Dain, 188)
+Dain, 188)
 chopper squad - guys with big guns, maybe machine guns (Pick-Up, 88)
 clammed - close-mouthed (as in clammed up) (Pick-Up, 188)
 clean sneak - an escape with no clues left behind (Knockover, 436)
 clip joint - in some cases, a night-club where the prices are high and
-     the patrons are fleeced (Partridge's), but here, a casino where the
-     tables are fixed (Pick-Up, 174)
+the patrons are fleeced (Partridge's), but here, a casino where the
+tables are fixed (Pick-Up, 174)
 clipped - shot (Pick-Up, 81)
 close your head - shut up (Shoot, 16)
 clubhouse - police station (Lake, 24)
 coffee-and-doughnut, as in "These coffee-and-doughnut guns are ..."
-     - ?? (Knockover, 400)
+- ?? (Knockover, 400)
 conk - head (Postman, 33)
 cool, as in "He cooled me" - to knock out ?? (Playback, 140)
 cooler, the - jail (Op, 55)
 cop - 1) detective, even a private one (Vengeance, 140); 2) to win, as
-     in a bet (Key, 23)
+in a bet (Key, 23)
 copped - grabbed by the cops (Op, 57)
 copper - 1) policeman (Op, 190; Key, 65); 2) as in "All time served
-     except his copper" - ?? (Farewell, 29)
+except his copper" - ?? (Farewell, 29)
 corn - bourbon (as in corn liquor) (Pick-Up, 186)
 crab - figure out (Sleep, 161)
 crate - car (Art, 39)
 creel, as in "And now you're in the creel and it's going to be frying
-     time" - ?? (Shoot, 120)
+time" - ?? (Shoot, 120)
 creep joint - ?? can mean a whorehouse where the girls are pickpockets,
-     but that doesn't fit here (Pick-Up, 8)
+but that doesn't fit here (Pick-Up, 8)
 croak - to kill (Key, 84; Pick-Up, 86)
 croaker - doctor (Knockover, 69)
 crushed out - escaped (from jail) (Knockover, 372; Op, 54)
@@ -107,7 +107,7 @@ deck, as in "deck of Luckies" - pack of cigarettes (Vengeance, 36; Op, 203)
 diapers, as in "Pin your diapers on" - clothes, get dressed (Key, 74)
 dib - share (of the proceeds) (Knockover, 400)
 dick - detective (usually qualified with "private" if not a
-     policeman) (passim)
+policeman) (passim)
 dingus - thing (Falcon, 147; Op, 11)
 dip - pickpocket (Knockover, 377)
 dip the bill - have a drink (Sleep, 163; Art, 212)
@@ -117,38 +117,38 @@ do the dance - to be hanged (Knockover, 446)
 dogs - feet (Pick-Up, 17)
 doll - woman (Pick-Up, 11), also dolly (Op, 224)
 dope - 1) drugs, of any sort (Farewell, 82, 143); 2) information
-     (Dain, 30; Op, 146; Sleep, 161); 3) as a verb, as in "I had him
-     doped as" - to have figured for (Op, 233)
+(Dain, 30; Op, 146; Sleep, 161); 3) as a verb, as in "I had him
+doped as" - to have figured for (Op, 233)
 dope fiend - drug addict (Dain, 119)
 dope peddler - drug dealer (Op, 52)
 dormy - dormant, quiet, as in "Why didn't you lie dormy in the place
-     you climbed to?" (Lake, 184)
+you climbed to?" (Lake, 184)
 dough - money (passim)
 drift - go, leave (Pick-Up, 53; Sleep, 69)
 drill - shoot (Knockover, 410)
 drink out of the same bottle, as in "We used to d.o.o.t.s.b." - we were
-     close friends (Dain, 15)
+close friends (Dain, 15)
 drum - speakeasy (Knockover, 357)
 dry-gulch - knock out, hit on head (Farewell, 63)
 ducat - ticket (Key, 73)
 duck soup - easy, a piece of cake (Knockover, 44)
 dummerer - somebody who pretends to be (deaf and?) dumb in order to
-     appear a more deserving beggar (Knockover, 198)
+appear a more deserving beggar (Knockover, 198)
 dump, as in "We did the dumps" - roadhouse, club (Knockover, 431);
-     or, more generally, any place (Art, 90)
+or, more generally, any place (Art, 90)
 dust - 1) nothing, as in "Tinhorns are dust to me" (Pick-Up, 3);
-     2) leave, depart, as in "Let's dust" (Pick-Up, 13) (also Art, 52;
-     Sleep, 64); 3) a look, as in "Let's give it the dust" (Pick-Up, 28)
+2) leave, depart, as in "Let's dust" (Pick-Up, 13) (also Art, 52;
+Sleep, 64); 3) a look, as in "Let's give it the dust" (Pick-Up, 28)
 dust out - leave, depart (Op, 81)
 Dutch - 1) as in "in dutch" - trouble (Postman, 56); 2) as in "A girl
-     pulled the Dutch act" - committed suicide (Vengeance, 122);
-     3) as in "They don't make me happy neither.  I get a bump once'n
-     a while.  Mostly a Dutch." - ?? relates to the police (Art, 119)
+pulled the Dutch act" - committed suicide (Vengeance, 122);
+3) as in "They don't make me happy neither.  I get a bump once'n
+a while.  Mostly a Dutch." - ?? relates to the police (Art, 119)
 egg - fellow (Knockover, 395)
 eggs in the coffee - easy, a piece of cake, okay, all right
-     (Knockover, 44; Dain, 192)
+(Knockover, 44; Dain, 192)
 elbows, as in "And there's no elbows tagging along" - police?
-     (Knockover, 180)
+(Knockover, 180)
 electric cure - electrocution (Key, 153)
 fade - get lost (Shoot, 103)
 fakeloo artist - con man (Farewell, 87)
@@ -156,26 +156,26 @@ fin - $5 bill (Playback, 11; Vengeance, 40)
 finder - finger man (Speaking, 87)
 finger, as in put the finger on - identify (Knockover, 380)
 flat - 1) broke (Knockover, 413); 2) as in "That's flat" - that's for
-     sure (Op, 99)
+sure (Op, 99)
 flattie - flatfoot, cop (Art, 58)
 flimflamm - swindle (Op, 23, 251)
 flippers - hands? (Lake, 139)
 flivver - a Ford automobile (Speaking, 87; Knockover, 436)
 flogger - overcoat (Op, 219)
 flop - 1) go to bed (Speaking, 87); 2) as in "The racket's flopped" -
-     fallen through, not worked out (Op, 268)
+fallen through, not worked out (Op, 268)
 flophouse - "a cheap transient hotel where a lot of men sleep in large
-     rooms" (Speaking, 87)
+rooms" (Speaking, 87)
 fog - to shoot (Falcon, 212)
 frail - woman (Sleep, 127)
 frau - wife (Pick-Up, 195)
 from nothing, as in "I know from nothing" - I don't know anything
-     (Shoot, 65)
+(Shoot, 65)
 gashouse, as in "getting gashouse" - rough (Pick-Up, 17)
 gat - gun (passim)
 gate, as in "Give her the gate" - the door, as in leave (Dain, 195)
 gaycat - "a young punk who runs with an older tramp and there is
-     always a connotation of homosexuality" (Speaking, 87)
+always a connotation of homosexuality" (Speaking, 87)
 gee - guy (Art, 105)
 gink - guy (Knockover, 433)
 girlie - woman (Vengeance, 34)
@@ -199,9 +199,9 @@ grift, as in "What's the grift?" - What are you trying to pull? (Art, 39)
 grifter - con man (Knockover, 354)
 grilled - questioned (Op, 36)
 gum, as in "Don't ... gum every play I make" - gum up, interfere with
-     (Op, 224)
+(Op, 224)
 gum-shoe - detective (Op, 36), also gumshoeing = detective work
-     (Knockover, 197)
+(Knockover, 197)
 gun for - look for, be after (Op, 98)
 guns - hoodlums (Knockover, 400)
 hack - taxi (Farewell, 35; Vengeance, 35)
@@ -219,17 +219,17 @@ high pillow - person at the top, in charge (Farewell, 165)
 highbinders - ?? (Knockover, 242)
 hittin' the pipe - smoking opium (Op, 62)
 hitting on all eight - as in cylinders, in good shape, going well
-     (Dain, 182)
+(Dain, 182)
 hock shop - pawnshop (Dain, 63)
 hogs - engines (Art, 175)
 hombre - man, fellow (Sleep, 209; Knockover, 413)
 hooch - liquor (Art, 206; Knockover, 383)
 hood - criminal (Pick-Up, 141)
 hooker, as in "It took a stiff hooker of whiskey" (Knockover, 408) -
-     a drink of strong liquor (Partridge's)
+a drink of strong liquor (Partridge's)
 hoosegow - jail (Knockover, 354)
 hop - 1) drugs, mostly heroin or derivatives like morphine (Farewell,
-     143); 2) bell-hop (Lake, 73)
+143); 2) bell-hop (Lake, 73)
 hop-head - drug addict, esp. heroin (Op, 52)
 hot - stolen (Knockover, 70)
 house dick - house detective (Vengeance, 25)
@@ -249,7 +249,7 @@ jobbie - guy (Knockover, 439)
 johns - police (Sleep, 69)
 joint - place, as in "my joint" (Knockover, 199)
 joss house - temple or house of worship for a Chinese religion
-     (Knockover, 207)
+(Knockover, 207)
 jujus - marijuana cigarettes (Farewell, 62)
 jump, the - a hanging (Dain, 203)
 kale - money (Art, 180)
@@ -262,10 +262,10 @@ knockover - heist, theft (Knockover, 399)
 lammed off - ran away, escaped (Lake, 37)
 law, the - the police (Shoot, 121; Pick-Up, 29)
 lay - 1) job, as in Marlowe saying he's on "a confidential lay"
-     (Farewell, 17); or more generally, what someone does, as in "The
-     hotel-sneak used to be my lay" (Op, 86); 2) as in "I gave him the
-     lay" - I told him where things stood (as in lay of the of land)
-     (Op, 70)
+(Farewell, 17); or more generally, what someone does, as in "The
+hotel-sneak used to be my lay" (Op, 86); 2) as in "I gave him the
+lay" - I told him where things stood (as in lay of the of land)
+(Op, 70)
 lit, to be - to be drunk (Art, 149)
 loogan - Marlowe defines this as "a guy with a gun" (Sleep, 138)
 look-out - outside man (Speaking, 87)
@@ -276,7 +276,7 @@ map - face (Art, 175)
 marbles - pearls (Art, 176)
 mazuma - money (Art, 206)
 meat, as in "He's your meat" - there's your man, in this case,
-     there's the guy you'll follow (Knockover, 368)
+there's the guy you'll follow (Knockover, 368)
 meat wagon - ambulance (Lake, 94)
 mesca - marijuana (Playback, 126)
 Mickey Finn, take a - take off, leave (Op, 229)
@@ -303,8 +303,8 @@ noodle - head (Op, 23; Playback, 14)
 nose-candy - heroin in some cases (Knockover, 199)
 number - a person, can be either a man or a woman (Art, 33, 84)
 off the track, as in "He was too far off the track.  Strictly
-     section eight" - said about a man who becomes insanely violent
-     (Shoot, 117)
+section eight" - said about a man who becomes insanely violent
+(Shoot, 117)
 op - detective (esp private) (Playback, 109)
 orphan paper - bad cheques (Dain, 109)
 out on the roof, to be - to drink a lot (Lake, 30)
@@ -341,11 +341,11 @@ put the screws on - question, get tough with (Dain, 34)
 queer - 1) counterfeit (Speaking, 88); 2) sexually abnormal (Speaking, 88)
 rags - clothes (Knockover, 429)
 ranked, as in "Being ranked again by a watchman there" - recognized?
-     accosted? (Knockover, 70)
+accosted? (Knockover, 70)
 rap - 1) criminal charge (Knockover, 47); 2) information, as in "He gave
-     us the rap" (Op, 51); 2) hit (Postman, 33)
+us the rap" (Op, 51); 2) hit (Postman, 33)
 rappers, as in "There were a couple solved for the record, but they were
-     just rappers" - fakes, set-ups (Farewell, 165)
+just rappers" - fakes, set-ups (Farewell, 165)
 rat - inform (Key, 78; Night, 5)
 rate - to be good, to count for something (Art, 55)
 rats and mice - dice, i.e. craps (Dain, 29)
@@ -354,8 +354,8 @@ redhot - some sort of criminal (Pick-Up, 114)
 reefers - marijuana cigarettes (Farewell, 172)
 rhino - money (Knockover, 401)
 ribbed up, as in "I got a Chink ribbed up to get the dope" - set up,
-     arranged for?  "I have arranged for a Chinese person to get the
-     information"? (Knockover, 203)
+arranged for?  "I have arranged for a Chinese person to get the
+information"? (Knockover, 203)
 right - adjective indicating quality (Pick-Up, 21)
 right gee - a good fellow (Sleep, 157)
 right guy - a good fellow (Knockover, 111)
@@ -371,7 +371,7 @@ sap poison - getting hit with a sap (Art, 188)
 savvy? - get me? understand? (Farewell, 120)
 sawbuck - $10 (Night, 33)
 scatter - as in "And don't bother to call your house peeper and send
-     him up to the scatter" - ?? (Lake, 188)
+him up to the scatter" - ?? (Lake, 188)
 schnozzle - nose (Art, 190)
 scram out - leave (Lake, 76)
 scratch - money (Art, 56)
@@ -389,34 +389,34 @@ shyster - lawyer (Farewell, 111)
 silk, as in "all silk so far" - all okay so far (Knockover, 393)
 sister - woman (Knockover, 44)
 skate around, as in "She skates around plenty" - to be of easy virtue
-     (Sleep, 83)
+(Sleep, 83)
 skipout - leave a hotel without paying, or a person who does so
-     (Playback, 108)
+(Playback, 108)
 slant, get a - take a look (Key, 31)
 sleuth - detective (Sleep, 65)
 slug - 1) as a noun, bullet (passim); 2) as a verb, to knock unconscious
-     (Lake, 191)
+(Lake, 191)
 smell from the barrel, have a - have a drink (Art, 205)
 smoke - a black person (Farewell, 14; Pick-Up, 111)
 smoked - drunk (Key, 182)
 snap a cap - shout (Op, 84)
 snatch - kidnap (Pick-Up, 156)
 sneak - 1) leave, get lost, as in "If you're not a waiter, sneak"
-     (Op, 73); 2) type of burglary, as in as in "The hotel-sneak used to
-     be my lay" (Op, 86)
+(Op, 73); 2) type of burglary, as in as in "The hotel-sneak used to
+be my lay" (Op, 86)
 sneeze - take (Pick-Up, 102)
 snooper - detective (Lake, 18)
 snort (as in of gin) - a drink (Art, 56)
 snow-bird - (cocaine) addict (Pick-Up, 78; Knockover, 202)
 snowed - to be on drugs (heroin? cocaine?) (Pick-Up, 97); also snowed
-     up (Op, 149)
+up (Op, 149)
 soak - to pawn (Knockover, 92)
 sock - punch (Knockover, 66; Sleep, 173; Art, 153)
 spill - talk, inform (Pick-Up, 43; Sleep, 99), spill it = tell me (Shoot, 96)
 spinach - money (Knockover, 385)
 spitting - talking (Knockover, 70)
 square - honest (Art, 130), "on the square" = telling the truth
-     (Knockover, 379)
+(Knockover, 379)
 squirt metal - shoot bullets (Knockover, 67)
 step off - to be hanged (Knockover, 446)
 sticks of tea - marijuana cigarettes (Farewell, 62)
@@ -451,33 +451,31 @@ torpedoes - gunmen (Farewell, 215)
 trap - mouth (Vengeance, 13)
 trigger man - guy who does the shooting on a job (Sleep, 209)
 trip for biscuits, as in "You get there fast and you get there alone -
-     or you got a trip for biscuits" - ?? (Art, 209)
+or you got a trip for biscuits" - ?? (Art, 209)
 trouble boys - gangsters (Art, 85)
 turn up - to turn in (to the cops) (Falcon, 164)
 twist - woman (Falcon, 164; Knockover, 46; Sleep, 163)
 two bits - $25 (Key, 3)
 up-and-down, as in "to give something the up-and-down" - a look
-     (Knockover, 97)
+(Knockover, 97)
 uppers, as in "I've been shatting on my uppers for a couple of months
-     now" - broke (Knockover, 54)
+now" - broke (Knockover, 54)
 vag, as in vag charge, vag law - vagrancy (Op, 52)
 weak sister - a push-over (Op, 42)
 wear iron - carry a gun (Sleep, 67)
 wheats, as in "a stack of wheats" - pancakes (Op, 183)
 white - 1) good, okay, as in "white dick" (Knockover, 379); 2) as in
-     a gallon of - gin (Dain, 175)
+a gallon of - gin (Dain, 175)
 wire, as in "What's the wire on them?" - news, "What information do
-     you have about them?" (Shoot, 24)
+you have about them?" (Shoot, 24)
 wise, to be - to be knowledgeable of (Pick-Up, 32), "put us wise"
-     - tell us (Lake, 81)
+- tell us (Lake, 81)
 wise head - a smart person (Thin, 106)
 worker, as in "She sizes up as a worker" - a woman who takes a guy
-     for his money (Op, 139)
+for his money (Op, 139)
 wrong gee - not a good fellow (Sleep, 184)
 wrong number - not a good fellow (Art, 84)
 yap - mouth (Vengeance, 12)
 yard - $100 (Pick-Up, 103; Art, 54)
 yegg - safecracker, "who can only open a rather cheap and vulnerable
-     safe" (Op, 51, 146; Speaking, 89)
-
-
+safe" (Op, 51, 146; Speaking, 89)

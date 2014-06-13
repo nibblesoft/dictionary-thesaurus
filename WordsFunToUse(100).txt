@@ -1,4 +1,4 @@
-Uruguay
+﻿Uruguay
 Paducah
 Zimbabwe
 Mozambique
@@ -71,8 +71,8 @@ Krankenwagon
 Bongo
 Megaphone
 Phrases
-Ontogeny 
-Recapitulates 
+Ontogeny
+Recapitulates
 Phylogeny
 Yahooligans
 Functionality
@@ -81,11 +81,11 @@ Usability
 Supportability
 Recapitulate
 Panama
-Winky Tinky 
+Winky Tinky
 Ha Ha Hut
-Competitive 
+Competitive
 Inhibition
-Eschew 
+Eschew
 Obfuscations
 Kizinti
 Oligopoly
@@ -99,7 +99,3 @@ Tomfoolery
 Shenanigans
 Acrophilia
 Palindrome
-
-
-
-

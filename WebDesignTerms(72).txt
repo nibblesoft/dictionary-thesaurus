@@ -1,4 +1,4 @@
-Acrobat
+﻿Acrobat
 Alignment
 ALT-attribute
 Animated GIF
@@ -69,5 +69,5 @@ Spider/Robot
 Thread
 Uniform Resource Locator
 Vector Graphic
-Web site 
+Web site
 Website

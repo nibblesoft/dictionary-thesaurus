@@ -1,4 +1,4 @@
-Lesson 1
+﻿Lesson 1
 1. sat
 2. fat
 3. hat
@@ -97,7 +97,7 @@ Lesson 10
 7. bite
 8. mite
 9. bone
- Lesson 11
+Lesson 11
 1. throne
 2. shone
 3. rope
@@ -206,7 +206,7 @@ Lesson 20
 7. remake
 8. quake
 9. we
- Lesson 21
+Lesson 21
 1. is
 2. you
 3. and
@@ -310,7 +310,7 @@ Lesson 30
 7. how
 8. chow
 9. cove
- Lesson 31
+Lesson 31
 1. spoke
 2. woke
 3. stove
@@ -407,14 +407,3 @@ Lesson 40
 6. fret
 7. bet
 8. wet
-
- 
-
-
-
- 
- 
-
-  
-
- 

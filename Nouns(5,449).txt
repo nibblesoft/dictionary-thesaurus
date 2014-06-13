@@ -1,4 +1,4 @@
-abbreviation
+﻿abbreviation
 abbreviations
 abettor
 abettors

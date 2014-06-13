@@ -1,4 +1,4 @@
-157 x Capitals + Countries	
+﻿157 x Capitals + Countries
 	
 Accra 		Ghana
 Addis Ababa 	Ethiopa

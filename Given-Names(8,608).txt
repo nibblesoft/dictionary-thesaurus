@@ -1,4 +1,4 @@
-Aaccf
+﻿Aaccf
 Aaren
 Aarika
 Aaron
@@ -2925,7 +2925,7 @@ Gail
 Gailya
 Gajendra
 Gale
-Gale 
+Gale
 Galen
 Galina
 Gama

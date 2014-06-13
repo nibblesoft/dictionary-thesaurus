@@ -1,4 +1,4 @@
-Lesson 1
+﻿Lesson 1
 1. surprised
 2. decided
 3. included
@@ -538,7 +538,7 @@ Lesson 20
 23. meantime
 24. birdcage
 25. fact
- Lesson 21
+Lesson 21
 1. electric
 2. magic
 3. critic
@@ -807,7 +807,7 @@ Lesson 30
 23. cuckoo clock
 24. each other
 25. winning
- Lesson 31
+Lesson 31
 1. forgetting
 2. happened
 3. upsetting
@@ -1075,6 +1075,3 @@ Lesson 40
 23. South America
 24. archaeologist
 25. Russia
- 
-
- 

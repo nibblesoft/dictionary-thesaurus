@@ -1,4 +1,4 @@
-brisk
+﻿brisk
 buoyant
 calm
 carefree

@@ -1,9 +1,9 @@
-access
-activities of daily living 
+﻿access
+activities of daily living
 allowed expenses
 ambulatory care
 ancillary services
-average length of stay 
+average length of stay
 balance billing
 benefits
 capitation
@@ -14,13 +14,13 @@ co insurance
 co payment
 coverage
 covered expenses
-customary charge 
+customary charge
 deductable
-diagnosis related groups 
-exclusive provider organization 
+diagnosis related groups
+exclusive provider organization
 experimental procedures
 fee for service
-health maintenance organization 
+health maintenance organization
 inpatient care
 managed care
 managed care plan
@@ -28,13 +28,13 @@ maximum out of pocket
 medicaid
 medicare
 open enrollment
-outpatient care 
+outpatient care
 participating provider
-physician hospital organization 
+physician hospital organization
 point of service (pos) plan
 preauthorization
 preexisting conditions
-preferred provider organization: 
+preferred provider organization:
 premium
 point of service
 primary care physician
