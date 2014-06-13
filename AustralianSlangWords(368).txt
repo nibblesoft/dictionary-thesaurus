@@ -197,7 +197,7 @@ Knocker
 Lair
 Lairitup
 Larrikin
-tohavea Lendof
+to havea Lendof
 Lippy
 Liquidlaugh
 Lizarddrinking
@@ -207,7 +207,7 @@ Lollies
 Londontoabrick
 Loo
 The Lucky Country
-whoopenedtheir Lunch?
+whoopened their Lunch?
 Lurk
 Maccas
 Malleebull
@@ -263,7 +263,7 @@ Postie
 Pot
 Pozzy
 Prezzy
-makea Quid
+make a Quid
 full Quid
 Rackoff
 Rage
@@ -322,8 +322,8 @@ Strides
 Strine
 Stubby
 Stubbyholder
-I'llbe Stuffed
-Ifeel Stuffed
+I'll be Stuffed
+I feel Stuffed
 Sunbake
 Sunnies
 Surfies
@@ -352,9 +352,9 @@ Twoup
 Uni
 Unit
 Uponeself
-get Upsomebody
-titsonabull
-ashtrayonamotorbike
+get Up somebody
+tits on a bull
+ashtray on a motorbike
 Ute
 Vegout
 Vedgies
