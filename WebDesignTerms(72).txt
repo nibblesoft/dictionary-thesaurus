@@ -1,0 +1,73 @@
+Acrobat
+Alignment
+ALT-attribute
+Animated GIF
+Anti-Aliasing
+Bandwidth
+Bevel
+Bitmap Image
+Bookmark
+Browser
+Cast Shadow
+CGI
+Color Cast
+Check Box
+Compression
+Cookie
+Dedicated Line
+Directory
+Dithered/Dithering
+DNS
+Domain Name System
+DPI
+Drop Shadow
+Emboss
+Export
+E-Zine
+Electronic Magazine
+Feathering
+Forms
+Frames
+Freeware
+FTP
+File Transfer Protocol
+GIF
+Graphics Interchange Format
+Glow
+Gradient
+Graphic Backgrounds
+Hexadecimal
+HTML
+Hypertext Markup Language
+Hyperlink
+Hypertext
+Image Map
+Java
+Joint Photographic Experts Group
+Kerning
+Leading
+List
+Lossless Compression
+Lossy Compression
+Meta-tag
+Modem
+Moderated Discussion List
+Newsgroup
+Multimedia
+Netiquette
+Newbie
+Online
+Portable Document Format
+Plug-In
+PostQuery
+Quick Time Video
+Radio Button
+Rules
+Screen Font
+Search Engine
+Spider/Robot
+Thread
+Uniform Resource Locator
+Vector Graphic
+Web site 
+Website

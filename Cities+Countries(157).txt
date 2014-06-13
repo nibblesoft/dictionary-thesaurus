@@ -1,0 +1,159 @@
+157 x Capitals + Countries	
+	
+Accra 		Ghana
+Addis Ababa 	Ethiopa
+Adelaide 	Australia
+Aden 		South Yemen
+Alexandria 	Egypt
+Algiers 	Algeria
+Amsterdam 	Netherland
+Ankara 		Turkey
+Athens 		Greece
+Auckland 	New Zealand
+Baghdad 	Iraq
+Bahrain 	Bahrain
+Baltimore 	USA
+Bandung 	Indonesia
+Bangkok 	Thailand
+Barbados 	West Indies
+Beijing 	China
+Beirut 		Lebanon
+Belgrade 	Yugoslavia
+Bermuda 	Bermuda
+Berlin 		Germany
+Berne 		Switzerland
+Bogota 		Colombia
+Bombay 		India
+Berlin 		Germany
+Boston 		USA
+Brazzaville 	Congo
+Brisbane 	Australia
+Brussels 	Belgium
+Bucharest 	Rumania
+Budapest 	Hungary
+Buenos Aires 	Argentina
+Cairo 		Egypt
+Calcutta 	India
+Canberra 	Australia
+Caracas 	Venezeula
+Cassablanca 	Morocco
+Chicago 	USA
+Chongqing 	China
+Cologne 	Germany
+Colombo 	Sri Lanka
+Copenhagen 	Denmark
+Dacca 		Bangladesh
+Dallas 		USA
+Damascus 	Syria
+Dar-es-Salaam 	Tanzania
+Darwin 		Australia
+Delhi 		India
+Detroit 	USA
+Dhahran 	Saudi Arabia
+Dubai 		UAE
+Dublin 		Ireland
+Entebbe 	Uganda
+Frankfurt 	Germany
+Geneva 		Switzerland
+Georgetown 	Guyana
+Gibralta 	Gibralta
+Guangzhou 	China
+Hamburg 	Germany
+Hanoi 		Vietnam
+Havanno 	Cuba
+Helsinki 	Finland
+Hobart 		Australia
+HoChiMinh City 	Vietnam
+Hong Kong 	Hong Kong
+Honolulu 	USA
+Houston 	USA
+Islamabad 	Pakistan
+Istanbul 	Turkey
+Jakarta 	Indonesia
+Jeddah 		Saudi Arabia
+Kabul 		Afghanistan
+Karachi 	Pakistan
+Katmandu 	Nepal
+Khartoum 	Sudan
+Kingston 	Jamaica
+Kinshasa 	Zaire
+Kuala Lumpur 	Malaysia
+Kuwait 		Kuwait
+Kyoto 		Japan
+Lagos 		Nigeria
+Lahore 		Pakistan
+Leningrad 	USSR
+Lima 		Peru
+Lisbon 		Portugal
+London 		UK
+Los Angeles 	USA
+Lusaka 		Zambia
+Madras 		India
+Madrid 		Spain
+Malta 		Malta
+Manila 		Phillippines
+Mauritius	Mauritius
+Melbourne 	Australia
+Mexico City 	Mexico
+Miami 		USA
+Milan 		Italy
+Montevideo 	Uruguay
+Montreal 	Canada
+Moscow 		USSR
+Munich 		Germany
+Nairobi 	Kenya
+Nadi 		Fiji
+Naples 		Italy
+New Orleans 	USA
+New York 	USA
+Nicosia 	Cyprus
+Osaka 		Japan
+Oslo 		Norway
+Ottawa 		Canada
+Panama City 	Panama
+Paris 		France
+Perth 		Australia
+Philadelphia 	USA
+Pittsburgh 	USA
+Port Morsby 	PNG
+Prague 		Czechoslovakia
+Pusan 		South Korea
+Pyongyang 	North Korea
+Quebec 		Canada
+Rio de Janeiro 	Brazil
+Rome 		Italy
+Rotterdam 	Netherlands
+St Louis 	USA
+St Lucia 	West Indes
+St Petersburg 	Russia
+San Francisco 	USA
+Santiago 	Chile
+Sao Paulo 	Brazil
+Seoul 		South Korea
+Seychelles 	Seychelles Is
+Shanghai 	China
+Shenyang 	China
+Singapore 	Singapore
+Sofia 		Bulgaria
+Stockholm 	Sweden
+Suez 		Egypt
+Sydney 		Australia
+Taipei 		Taiwan
+Tehran 		Iran
+Tianjin 	China
+Tokyo 		Japan
+Toronto 	Canada
+Tunis 		Tunisia
+Trinidad 	West Indies
+Vancouver 	Canada
+Vaeletta 	Malta
+Vienna 		Austria
+Warsaw 		Poland
+Washington 	USA
+Wellington 	New Zealand
+Winnepeg 	Canada
+Wuhan 		China
+Xian 		China
+Yangon 		Myanmar
+Yokohama 	Japan
+Zurich 		Switzerland

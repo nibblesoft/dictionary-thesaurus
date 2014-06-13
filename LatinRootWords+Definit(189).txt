@@ -1,0 +1,186 @@
+act 			to act 
+acu, acr, ac 	 	needle 
+alt 	 		high 
+anima, anim 	 	life, mind 
+ann, enn 	 	year 
+anthrop 	 	man 
+aqua 	 		water 
+arch, archi 	 	govern, rule 
+arm 	 		army, weapon 
+arbitr,	arbiter 	to judge, consider 
+art 	 		craft, skill 
+arthr, art 	 	segment, joint 
+aud 	 		to hear 
+bell 	 		war 
+biblio, bibl 	 	book 
+bio 	 		life 
+capit, cipit 	 	head 
+caus 	 		cause, case, lawsuit 
+cede 	 		to go, yield 
+cele 	 		honor 
+cell 	 		to rise, project 
+cent 	 		one hundred 
+cept, capt, cip,
+cap, ceive, ceipt 
+			to take, hold, grasp 
+cert 	 		sure, to trust 
+cess, ced 	 	to move, withdraw 
+cid, cis 	 	to cut off, be breif, to kill 
+circ, circum 	 	around 
+civ 	 		citizen 
+claud 	 		close, shut, block 
+clin 	 		to lean, lie, bend 
+cog 	 		to know 
+column 	 		a column 
+comput 	 		to compute 
+cont 	 		to join, unite 
+cor, cord, cour, card 	heart 
+corp 	 		body 
+cosm 	 		world, order, universe 
+crac, crat 	 	rule, govern 
+cred 	 		believe, trust 
+crit, cris 	 	separate, discern, judge 
+culp 	 		fault, blame 
+curs, curr, corr 	to run 
+custom 	 		one's own 
+dem 	 		people 
+dent, odon 	 	tooth 
+derm 	 s		kin 
+dic, dict 	 	to say, to speak, assert 
+duct, duc 	 	to lead, draw 
+dur 	 		to harden, hold out 
+ego 	 		I 
+ethn 	 		nation 
+equ 	 		equal, fair 
+fac, fic, fect, fact 	to make, to do 
+famil 	 		family 
+fen 	 		to strike 
+fer 	 		to carry, bear, bring 
+fid 	 		trust, faith 
+fin 	 		to end 
+flu 	 		to flow 
+form 	 		shape, form 
+fort 	 		chance, luck, strong 
+frig 	 		cool 
+fum 	 		smoke, scent 
+gam 	 		marriage 
+gen 	 		race, family, kind 
+geo 	 		earth 
+gno, kno 	 	to know 
+grad, gred, gress 	step, degree, rank 
+graph, gram 	 	write, draw, describe, record 
+grat 	 		pleasure, thankful, goodwill, joy 
+grav, griev, grief 	heavy 
+gymn 	 		naked 
+hab 	 		to have, hold, dwell 
+hom 	 		man, human 
+hosp 	 		guest, host 
+host 	 		enemy, stranger 
+hydro 	 		water 
+hygiene 	 	the art of health 
+hypno 	 		sleep 
+init 	 		to begin, enter upon 
+jur, jus, jud 	 	law, right 
+juven 	 		young 
+labor, lab 	 	work 
+lat 	 		lateral, side, wide 
+laud 	 		praise 
+leg, lig 	 	law, to chose, perceive, understand 
+lev 	 		to make light, raise, lift 
+liber, liver 	 	free 
+lingu, langu 	 	tounge 
+lith 	 		stone 
+loc 	 		place 
+locu, loqu 	 	word, speak 
+log 	 		idea, word, speech, reason, study 
+luc, lum 	 	light 
+man 	 		hand 
+mar 	 		sea 
+med, medi 	 	middle 
+medic 	 		physician, to heal 
+memor 	 		mindful 
+men, min, mon 	 	to think, remind, advise, warn 
+ment 	 		mind 
+meter, metr 	 	measure 
+migr 	 		to move, travel 
+mim 	 		copy, imitate 
+mit, mis 	 	to send 
+mor 	 		fool, manner, custom 
+morph 	 		form 
+mort 	 		death 
+mov, mob, mot 	 	to move 
+mus 	 		little mouse 
+mut 	 		change, exchange 
+necess 	 		unavoidable 
+neur, nerv 	 	nerve 
+noc, nox 	 	night, harm 
+nomen, nomin 	 	name 
+null, nihil, nil 	nothing, void 
+nym, onym, onom 	name 
+opt 	 		eye 
+ord, ordin 	 	order 
+ortho 	 		straight 
+par, pair 	 	arrange, prepare, get ready, set 
+part, pars 	 	portion, part 
+ped, pes 	 	foot 
+pend, pond, pens 	to weigh, pay, consider 
+phe, fa, fe 	 	speak, spoken about 
+phil 	 		love 
+phon 	 		sound, voice 
+photo 	 		light 
+pler 	 		to fill 
+plic 	 		to fold 
+plur, plus 	 	more 
+pneu 	 		breath 
+polis, polit 	 	citizen, city, state 
+port 	 		to carry 
+pos 	 		to place, put 
+pot 	 		powerfull 
+prim, prin 	 	first 
+priv 	 		seperate 
+prob 	 		to prove, test 
+psych 	 		mind, soul, spirit 
+pyr 	 		fire 
+reg, rig, rect, reign 	government, rule, right, straight 
+respond 	 	to answer 
+rupt 	 		break, burst 
+sacr, secr, sacer 	sacred 
+sat 	 		to please 
+sci 	 		to know 
+scope 	 		to see 
+scrib, script 	 	to write 
+sed, sid, sess 	 	to sit, to settle 
+sent, sens 	 	to feel 
+sequ, secut 	 	to follow, sequence 
+simil, simul, sembl 	together, likeness, pretense 
+sol, soli 	 	alone, lonely 
+solus 	 		to comfort, to console 
+somn 	 		sleep 
+son 	 		sound 
+soph 	 		wise 
+spec, spect, spic 	to look at, behold 
+spond, spons 	 	to pledge, promise 
+tac, tic 	 	silent 
+techn 	 		art, skill 
+temp 	 		time 
+ten, tain, tent 	to hold 
+tend, tens 	 	to give heed, stretch toward 
+term 	 		boundary, limit 
+test 	 		to witness, affirm 
+the, them, thet 	to place, put 
+theatr 	 		to see, view 
+theo 	 		god 
+topo 	 		place 
+tract 	 		to pull, draw 
+trib 	 		to allot, give 
+vac 	 		empty 
+ven 	 		to come 
+ver 	 		truth 
+vers, vert 	 	to turn 
+vest 	 		to adorn 
+vestig 	 		to track 
+via 	 		way, road 
+vir 	 		manliness, worth 
+vis, vid 	 	to see, to look 
+viv, vit 	 	life 
+voc, vok 	 	voice, call 

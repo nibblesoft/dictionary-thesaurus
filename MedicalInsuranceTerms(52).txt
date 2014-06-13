@@ -1,0 +1,52 @@
+access
+activities of daily living 
+allowed expenses
+ambulatory care
+ancillary services
+average length of stay 
+balance billing
+benefits
+capitation
+case management
+case manager
+claim
+co insurance
+co payment
+coverage
+covered expenses
+customary charge 
+deductable
+diagnosis related groups 
+exclusive provider organization 
+experimental procedures
+fee for service
+health maintenance organization 
+inpatient care
+managed care
+managed care plan
+maximum out of pocket
+medicaid
+medicare
+open enrollment
+outpatient care 
+participating provider
+physician hospital organization 
+point of service (pos) plan
+preauthorization
+preexisting conditions
+preferred provider organization: 
+premium
+point of service
+primary care physician
+private insurance
+provider
+reasonable charge
+referral
+second opinion
+single payer
+subscriber
+subsidies
+specialist
+tertiary care
+usual charge
+utilization review

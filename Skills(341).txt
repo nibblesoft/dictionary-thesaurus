@@ -1,0 +1,341 @@
+Accountant
+Actor
+Actuary
+Administrator
+Advisor
+Advocate
+Ambassador
+Analyst
+Announcer
+Antique Dealer
+Arbitrator
+Architect
+Artist
+Assembler
+Astrologer
+Astronaut
+Astronomer
+Athlete
+Attorney
+Auctioner
+Auditor
+Author
+Baker
+Baliff
+Band Master
+Banker
+Barber
+Bartender
+Beautician
+Beggar
+Biochemist
+Biographer
+Biologist
+Boatman
+Boilerman
+Bookkeeper
+Bookie
+Boxer
+Bricklayer
+Broker
+Burgler
+Burser
+Butcher
+Buyer
+Cameraman
+Camp Warden
+Captain
+Car Park Attendant
+Carpenter
+Cartographer
+Cartoonist
+Cashier
+Censor
+Chairman
+Chambermaid
+Chauffer
+Chef
+Chemist
+Cheer Leader
+Chess Master
+Chief Executive Officer
+Choreographer
+Cleaner
+Clerk
+Clown
+Coach
+Coast Guard
+Cobbler
+Comedian
+Commander
+Conductor
+Consultant
+Contractor
+Controller
+Cook
+Coolie
+Coordinator
+Copy Writer
+Counseller
+Courier
+Cowboy
+Critic
+Curator
+Cutter
+Dancer
+Database Administrator
+Dealer
+Decorator
+Dentist
+Dermatologist
+Designer
+Despatch Rider
+Detective
+Developer
+Diplomat
+Director
+Diver
+Doctor
+Driver
+Economist
+Editor
+Electrician
+Embalmer
+Engineer
+Engraver
+Estates Officer
+Examiner
+Executor
+Explorer
+Exporter
+Farmer
+Fashion Designer
+Financial Controller
+Fireman
+Fisherman
+Fishmonger
+Fitter
+Flight Attendent
+Florist
+Fortune Teller
+Frame Maker
+Freight Forwarder
+Fund Manager
+Gambler
+Garbage Collector
+Gardener
+Gatekeeper
+General Manager
+Geologist
+Glass Maker
+Goal Keeper
+Goldsmith
+Golpher
+Governor
+Grader
+Grave Digger
+Guard
+Guide
+Gunner
+Hairdresser
+Hangman
+Hawker
+Head Hunter
+Helmsman
+Historian
+Hotelier
+House Keeper
+Housing Agent
+Human Resource Manager
+Hunter
+Hydrographer
+Immigration Officer
+Importer
+Inspector
+Instructor
+Insurance Saleman
+Interior Decorator
+Interpreter
+Invester
+Janitor
+Jeweler
+Jockey
+Journalist
+Judge
+Juggler
+Laboratory Assistant
+Labourer
+Landlord
+Lawyer
+Lecturer
+Leutenant
+Librarian
+Lifeguard
+Linguist
+Locksmith
+Machinist
+Magician
+Magistrate
+Maid
+Manager
+Manufacturer
+Mariner
+Masseur
+Mathematician
+Mechanic
+Mercenary
+Messenger
+Miller
+Miner
+Minister
+Model
+Money Changer
+Money Lender
+Monk
+Musician
+Naturalist
+Navigator
+Neurologist
+Nurse
+Oceanographer
+Operator
+Optician
+Optometrist
+Organist
+Packer
+Painter
+Palmist
+Paratrooper
+Pathologist
+Peddler
+Peon
+Performer
+Personnel Officer
+Pest Exterminator
+Pharmacist
+Philatist
+Philologist
+Photographer
+Physicist
+Physiotherapist
+Piano Tuner
+Pilot
+Pirate
+Planner
+Plumber
+Poacher
+Poet
+Police
+Politician
+Porter
+Postman
+Potter
+Preacher
+President
+Priest
+Principal
+Printer
+Private
+Producer
+Programmer
+Professor
+Project Manager
+Promoter
+Prostitute
+Psychiatrist
+Psychologist
+Public Relations Officer
+Publisher
+Pump Attendant
+Purchasing Officer
+Quality Controller
+Radio Operator
+Radiologist
+Ranger
+Realtor
+Receptionist
+Recruiter
+Registrar
+Reporter
+Researcher
+Retailer
+Robber
+Rubber Tapper
+Sailor
+Sales Person
+Scheduler
+Scientist
+Scout
+Scribe
+Seamstress
+Secretary
+Security Administrator
+Security Guard
+Sentry
+Sharp Shooter
+Sheep Shearer
+Shepherd
+Ship Chandler
+Shopkeeper
+Signaller
+Singer
+Smuggler
+Sniper
+Social Worker
+Soldier
+Solicitor
+Song Writer
+Speaker
+Spy
+Statistician
+Stenographer
+Steward
+Stoker
+Storekeeper
+Story Teller
+Submariner
+Superintendant
+Supervisor
+Surgeon
+Surveyor
+Swordmaker
+Systems Analyst
+Tailor
+Tank Commander
+Tax Collector
+Taxi Driver
+Teacher
+Technician
+Telephone Operator
+Teller
+Timber Grader
+Tinker
+Toll Collecter
+Tour Guide
+Trader
+Trainer
+Translator
+Travel Agent
+Treasurer
+Tutor
+Tycoon
+Typesetter
+Typist
+Undertaker
+Underwriter
+Upholsterer
+Usher
+Valuer
+Veterinarian
+Violinist
+Waiter
+Warden
+Warrior
+Washer
+Watchman
+Weatherman
+Weaver
+Welder
+Wrestler
+Writer
+Zoo Keeper

@@ -1,0 +1,19 @@
+all
+any
+both
+each
+every
+few
+lots of
+many
+none
+numerous
+several
+some
+
+
+
+
+
+
+

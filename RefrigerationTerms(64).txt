@@ -1,0 +1,64 @@
+aerator
+air conditioner
+agitator
+anomaly
+bake/broil valve
+bimetal
+breaker strip
+britsh thermal unit (btu)
+chill-plate
+cold
+cold control
+compressor
+condensate
+condenser
+condenser fan
+cycle
+cycle-defrost refrigerator
+defrost termination thermostat
+defrost timer
+dehumidifier
+door seal
+drain pan
+drain trough
+drip pan
+electro-mechanical
+energy saver switch
+evaporator
+faucet adaptor
+fill valve
+freon
+frost-free refrigerator
+fuse
+gasket
+gyrate
+gyrator
+heat
+idler pulley
+ignitor
+infinite heat switch
+latent heat
+limit switch
+manual-defrost refrigerator
+microwave
+microwave oven
+moulding
+mullion
+mullion heater
+overload protector
+ozone
+refrigerant
+refrigerant types
+refrigerator
+relay
+silfoss
+silver solder
+solonoid
+solid state relay
+tap adaptor
+thermodisc
+therm-o-disc, inc.
+thermostat
+timer
+triac
+water valve

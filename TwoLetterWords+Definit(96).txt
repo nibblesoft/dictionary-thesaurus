@@ -1,0 +1,194 @@
+96 Two-letter Words With Definitions followed by the same list without the definitions
+
+AA - rough, cindery lava 
+EX - the letter "X" 
+OH - to exclaim in surprise 
+AB - abdominal muscle 
+FA - a tone of the scale OM - a mantra 
+AD - advertisement 
+GO - to move along 
+ON - batsman's side of wicket 
+AE - one 
+HA - sound of surprise 
+OP - a style of abstract art 
+AG - pertaining to agriculture 
+HE - male person 
+OR - the heraldic color gold 
+AH - expresses delight 
+HI - used as a greeting 
+OS - a bone 
+AI - three-toed sloth 
+HM - expresses consideration 
+OW - expresses pain 
+AL - an East Indian tree 
+HO - expresses surprise 
+OX - a clumsy person 
+AM - form of "to be" 
+ID - part of the psyche 
+OY - expresses dismay 
+AN - indefinite article 
+IF - a possibility 
+PA - father 
+AR - the letter "R" 
+IN - to harvest 
+PE - a Hebrew letter 
+AS - to the same degree 
+IS - form of "to be" 
+PI - a Greek letter 
+AT - in the position of 
+IT - neuter pronoun 
+RE - a tone of the scale 
+AW - expresses protest 
+JO - sweetheart 
+SH - urges silence 
+AX - cutting tool 
+KA - (Egyptian) spiritual self 
+SI - ti (a tone of the scale) 
+AY - affirmative vote 
+LA - tone of the scale 
+SO - sol (a tone of the scale) 
+BA - (Egyptian) eternal soul 
+LI - Chinese unit of distance 
+TA - expression of gratitude 
+BE - to have actuality 
+LO - expresses surprise 
+TI - a tone of the scale 
+BI - a bisexual 
+MA - mother 
+TO - in the direction of 
+BO - a pal 
+ME - personal pronoun 
+UH - expresses hesitation 
+BY - a side issue 
+MI - tone of the scale 
+UM - indicates hesitation 
+DE - of; from - used in names 
+MM - expresses assent 
+UN - one 
+DO - a tone of the scale 
+MO - a moment 
+UP - to raise 
+ED - pertaining to education 
+MU - a Greek letter 
+US - personal pronoun 
+EF - the letter "F" 
+MY - possessive pronoun 
+UT - musical tone (is now DO) 
+EH - expresses doubt 
+NA - no; not 
+WE - pronoun 
+EL - elevated railroad 
+NE - born with the name of 
+WO - woe 
+EM - the letter "M" 
+NO - a negative reply XI - a Greek letter 
+EN - the letter "N" 
+NU - a Greek letter 
+XU - monetary unit of Vietnam 
+ER - expresses hesitation 
+OD - a hypothetical force 
+YA - you 
+ES - the letter "S" 
+OE - Faeroe Islands whirlwind 
+YE - you 
+ET - a past tense of eat 
+OF - coming from 
+YO - used to call attention 
+
+Same List as above - without definitions
+
+
+AA
+EX
+OH
+AB
+FA
+AD
+GO
+ON
+AE
+HA
+OP
+AG
+HE
+OR
+AH
+HI
+OS
+AI
+HM
+OW
+AL
+HO
+OX
+AM
+ID
+OY
+AN
+IF
+PA
+AR
+IN
+PE
+AS
+IS
+PI
+AT
+IT
+RE
+AW
+JO
+SH
+AX
+KA
+SI
+AY
+LA
+SO
+BA
+LI
+TA
+BE
+LO
+TI
+BI
+MA
+TO
+BO
+ME
+UH
+BY
+MI
+UM
+DE
+MM
+UN
+DO
+MO
+UP
+ED
+MU
+US
+EF
+MY
+UT
+EH
+NA
+WE
+EL
+NE
+WO
+EM
+NO
+EN
+NU
+XU
+ER
+OD
+YA
+ES
+OE
+YE
+ET
+OF
+YO

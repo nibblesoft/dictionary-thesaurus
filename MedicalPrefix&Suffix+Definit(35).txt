@@ -1,0 +1,42 @@
+-ac, 
+-al, 
+-ic, 
+-ical, 	pertaining to [cardiac, neural, gastric, neurological] 
+-algia	pain [arthralgia] 
+-cyte	cell [leukocyte, erythrocyte, thrombocyte] 
+-ectomy	excision, removal [nephrectomy, splenectomy] 
+-emia	blood condition [leukemia, anemia] 
+-genic	pertaining to, producing or produced by [carcinogenic, iatrogenic, pathogenic] 
+-gram	record [electroencephalogram] 
+-ion	process [excision] 
+-ist	specialist [gynecologist] 
+-itis	inflammation [cystitis, appendicitis, laryngitis} 
+-logy	study of [endocrinology] 
+-oma	tumor, mass, swelling [hepatoma, teratoma, carcinoma] 
+-opsy	process of viewing [biopsy] 
+-osis	condition, usually abnormal [nephrosis, leukocytosis] 
+-pathy	disease condition [adenopathy, neuropathy] 
+-scope	instrument to visually examine [ophthalmoscope] 
+-scopy	process of visually examining [sigmoidoscopy] 
+-sis	state of [prognosis] 
+-tomy	process of cutting, incision [lobotomy] 
+-y	process, condition [gastroenterology] 
+a-,
+an-
+no,
+not, 	without [anemia, aseptic] 
+auto- 	self [autosplenectomy] 
+dia- 	through, complete [diagnosis] 
+endo- 	within [endoscope] 
+epi- 	above, upon [epigastric, epidermis] 
+ex-,
+exo- 	out[excision, exophthalmos] 
+hyper- 	excessive, above, more than normal [hyperglycemia] 
+hypo- 	deficient, below, less than normal [hypothyroid] 
+in- 	into, in [incision] 
+peri- 	surrounding [pericardium, perimenopause] 
+pro- 	before [prognosis] 
+re- 	back [resection] 
+retro- 	behind [retrogastric] 
+sub- 	below, under [subhepatic] 
+trans- 	across, through [transaortic] 

@@ -1,0 +1,420 @@
+Lesson 1
+1. sat
+2. fat
+3. hat
+4. pat
+5. cat
+6. rat
+7. bat
+8. mat
+9. tug
+
+Lesson 2
+1. bug
+2. rug
+3. mug
+4. hug
+5. dug
+6. jug
+7. bad
+
+Lesson 3
+1. mad
+2. sad
+3. glad
+4. fad
+5. dad
+6. ran
+
+Lesson 4
+1. pan
+2. van
+3. fan
+4. tan
+5. man
+6. than
+7. an
+8. got
+
+Lesson 5
+1. lot
+2. rot
+3. spot
+4. jot
+5. blot
+6. hot
+7. pot
+8. plot
+9. cot
+10. pen
+
+Lesson 6
+1. then
+2. men
+3. open
+4. ten
+5. hen
+6. den
+7. spun
+
+Lesson 7
+1. sun
+2. nun
+3. stun
+4. bun
+5. rerun
+6. gun
+7. shun
+8. fun
+9. play
+
+Lesson 8
+1. away
+2. tray
+3. bay
+4. ray
+5. stay
+6. clay
+7. stray
+8. hay
+9. bee
+
+Lesson 9
+1. tree
+2. free
+3. fee
+4. flee
+5. glee
+6. white
+
+Lesson 10
+1. recite
+2. write
+3. kite
+4. excite
+5. cite
+6. site
+7. bite
+8. mite
+9. bone
+ Lesson 11
+1. throne
+2. shone
+3. rope
+4. stone
+5. hone
+6. zone
+7. cone
+8. phone
+9. tone
+10. wake
+
+Lesson 12
+1. fake
+2. bake
+3. cake
+4. make
+5. rake
+6. snake
+7. take
+8. lake
+9. boy
+
+Lesson 13
+1. cowboy
+2. decoy
+3. toy
+4. coy
+5. bellboy
+6. soy
+7. joy
+8. skin
+
+Lesson 14
+1. twin
+2. chin
+3. grin
+4. shin
+5. sin
+6. spin
+7. tin
+8. kin
+9. fin
+10. crop
+
+Lesson 15
+1. mop
+2. prop
+3. chop
+4. pop
+5. drop
+6. cop
+7. clop
+8. stop
+9. top
+10. buck
+
+Lesson 16
+1. pluck
+2. puck
+3. duck
+4. tuck
+5. cluck
+6. chuck
+7. struck
+8. muck
+9. trip
+
+Lesson 17
+1. dip
+2. sip
+3. pip
+4. hip
+5. nip
+6. lip
+7. skip
+8. zip
+9. grip
+10. star
+
+Lesson 18
+1. scar
+2. jar
+3. bar
+4. spar
+5. mar
+6. tar
+7. floor
+
+Lesson 19
+1. short
+2. horn
+3. born
+4. porch
+5. corn
+6. story
+7. or
+8. retake
+
+Lesson 20
+1. sake
+2. awake
+3. intake
+4. shake
+5. flake
+6. brake
+7. remake
+8. quake
+9. we
+ Lesson 21
+1. is
+2. you
+3. and
+4. not
+5. the
+6. to
+7. that
+8. in
+9. a
+10. at
+
+Lesson 22
+1. will
+2. are
+3. of
+4. this
+5. can
+6. on
+7. it
+8. for
+9. with
+10. be
+
+Lesson 23
+1. your
+2. one
+3. me
+4. they
+5. I
+6. as
+7. but
+8. good
+9. have
+10. shag
+
+Lesson 24
+1. shines
+2. she
+3. shore
+4. shark
+5. shell
+6. shrug
+7. shells
+8. chips
+
+Lesson 25
+1. chase
+2. chat
+3. charm
+4. chick
+5. chill
+6. chew
+7. chair
+8. do
+
+Lesson 26
+1. up
+2. been
+3. about
+4. her
+5. if
+6. some
+7. when
+8. my
+9. seam
+
+Lesson 27
+1. beam
+2. steam
+3. cream
+4. stream
+5. gleam
+6. heat
+
+Lesson 28
+1. leap
+2. sheep
+3. sleep
+4. feed
+5. leak
+6. seen
+7. spike
+
+Lesson 29
+1. hike
+2. pike
+3. pipe
+4. wipe
+5. stripe
+6. ripe
+7. bike
+8. plow
+
+Lesson 30
+1. cow
+2. bow
+3. now
+4. wow
+5. allow
+6. brow
+7. how
+8. chow
+9. cove
+ Lesson 31
+1. spoke
+2. woke
+3. stove
+4. drove
+5. poke
+6. grove
+7. choke
+8. yoke
+9. shoved
+
+Lesson 32
+1. glove
+2. loves
+3. dove
+4. gloves
+5. shove
+6. door
+
+Lesson 33
+1. chores
+2. snores
+3. floors
+4. stores
+5. doors
+6. indoors
+7. outdoors
+8. fireplace
+
+Lesson 34
+1. someone
+2. bobcat
+3. firemen
+4. snowflake
+5. butterfly
+6. spaceship
+7. eyelid
+8. daylight
+
+Lesson 35
+1. dollhouse
+2. raindrop
+3. snowplow
+4. birthday
+5. moonlight
+6. toolhouse
+7. icebox
+8. daytime
+
+Lesson 36
+1. woodwork
+2. outrun
+3. seashells
+4. mailbox
+5. seashore
+6. anyway
+7. somehow
+8. foxhole
+9. brews
+
+Lesson 37
+1. news
+2. new
+3. chews
+4. stew
+5. blew
+6. crew
+7. dew
+8. ore
+
+Lesson 38
+1. chore
+2. tore
+3. store
+4. before
+5. snore
+6. pore
+7. bore
+8. hunch
+
+Lesson 39
+1. brunch
+2. punch
+3. lunch
+4. crunch
+5. bunch
+6. vet
+
+Lesson 40
+1. rocket
+2. net
+3. get
+4. pet
+5. jet
+6. fret
+7. bet
+8. wet
+
+ 
+
+
+
+ 
+ 
+
+  
+
+ 
