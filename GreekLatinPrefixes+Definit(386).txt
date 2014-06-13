@@ -265,7 +265,7 @@ pinna  		flap, wing, ear member
 pisi-  		pea-like
 plac-  		flat plate
 -plasm		fluid substance
-plasm, 		plasma  fluid, formless substance
+plasm, 		plasma fluid, formless substance
 -plat		flat
 pleuro-  	from the side, ribs
 plex-  		web, interlacing threads
