@@ -22,6 +22,7 @@ Belgrade 	Yugoslavia
 Bermuda 	Bermuda
 Berlin 		Germany
 Berne 		Switzerland
+Bissau 		Guinea-Bissau
 Bogota 		Colombia
 Bombay 		India
 Berlin 		Germany
@@ -116,6 +117,7 @@ Perth 		Australia
 Philadelphia 	USA
 Pittsburgh 	USA
 Port Morsby 	PNG
+Praia 		Cape-Verde
 Prague 		Czechoslovakia
 Pusan 		South Korea
 Pyongyang 	North Korea
@@ -123,9 +125,9 @@ Quebec 		Canada
 Rio de Janeiro 	Brazil
 Rome 		Italy
 Rotterdam 	Netherlands
-St Louis 	USA
-St Lucia 	West Indes
-St Petersburg 	Russia
+St. Louis 	USA
+St. Lucia 	West Indes
+St. Petersburg 	Russia
 San Francisco 	USA
 Santiago 	Chile
 Sao Paulo 	Brazil
