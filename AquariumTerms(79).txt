@@ -56,7 +56,7 @@ nitrogencycle
 ozone
 peat
 periastolicpump
-pH
+p H
 powerfilter
 powerhead
 prefilter

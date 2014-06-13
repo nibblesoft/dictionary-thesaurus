@@ -116,7 +116,7 @@ dump
 dust
 dustout
 Dutch
-pulledtheDutchact
+pulledthe Dutchact
 egg
 eggsinthecoffee
 elbows
@@ -229,7 +229,7 @@ mazuma
 meat
 meatwagon
 mesca
-takeaMickeyFinn
+takea Mickey Finn
 mill
 mitt
 mob

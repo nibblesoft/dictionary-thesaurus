@@ -63,7 +63,7 @@ Hanoi 		Vietnam
 Havanno 	Cuba
 Helsinki 	Finland
 Hobart 		Australia
-HoChiMinh City 	Vietnam
+Ho Chi Minh City 	Vietnam
 Hong Kong 	Hong Kong
 Honolulu 	USA
 Houston 	USA

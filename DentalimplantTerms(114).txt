@@ -2,113 +2,113 @@ Abutment
 Allograft
 Alloplast
 Alloys
-AluminumOxide
-AluminumOxide
-AlveolarMucosa
+Aluminum Oxide
+Aluminum Oxide
+Alveolar Mucosa
 Asepsis
-AttachedGingiva
+Attached Gingiva
 Attachment
 Augmentation
 Autograft
-BoneCurettage
-CancellousBone
+Bone Curettage
+Cancellous Bone
 Carbons
 Ceramics
-ChromeCobaltMolybdenum
-ConnectingBar
+Chrome Cobalt Molybdenum
+Connecting Bar
 Corrosion
-CorticalBone
+Cortical Bone
 Degreaser
 Dehiscence
-DentalImplant
+Dental Implant
 Depassivation
-DigastricMuscle
-EndodonticEndostealImplant
-EndostealImplant
-EpithelialAttachment
-ExternalObliqueRidge
-FibrousIntegration
-FirstStageSurgery
-FreestandingImplant
+Digastric Muscle
+Endodontic Endosteal Implant
+Endosteal Implant
+Epithelial Attachment
+External Oblique Ridge
+Fibrous Integration
+First Stage Surgery
+Freestanding Implant
 Galvanism
-GenialTubercles
+Genial Tubercles
 Graft
 Head
 Heterograft
 Homograft
-HorizontalEndostealImplant
-HydroxylapatiteCeramic
+Horizontal Endosteal Implant
+Hydroxylapatite Ceramic
 Hyperplasia
 Hypertrophy
 Hypoplasia
 Infrastructure
 Implant
-ImplantDentist
-ImplantDentistry
-ImplantDenture
-ImplantInterface
-ImplantNeck
+Implant Dentist
+Implant Dentistry
+Implant Denture
+Implant Interface
+Implant Neck
 Implantologist
 Implantology
-ImplantProsthodontics
-IncisiveForamen
-InterdentalImplant
-Intra-MucosalInserts
-KeratinizedGingiva
-MandibularBasalBone
-MandibularNerve
-MandibularStaple
-MaxillarySinus
-MentalForamen
-MesostructureBar
+Implant Prosthodontics
+Incisive Foramen
+Interdental Implant
+Intra-Mucosal Inserts
+Keratinized Gingiva
+Mandibular Basal Bone
+Mandibular Nerve
+Mandibular Staple
+Maxillary Sinus
+Mental Foramen
+Mesostructure Bar
 Metals
-MucogingivalJunction
+Mucogingival Junction
 Mucoperiosteum
-MylohyoidRidge
-NasalSpine
+Mylohyoid Ridge
+Nasal Spine
 Non-Resorbable
-OralImplant
+Oral Implant
 Osseointegration
 Passivation
 Pericervical
-PermucosalPinImplant
+Permucosal Pin Implant
 Polyhema
 Polymer
-PolymerTooth
-PterygoidNotch
-RamusFrame
+Polymer Tooth
+Pterygoid Notch
+Ramus Frame
 Ramus-Implant
-ReceptorSites
-ReceptorSitesFormer
+Receptor Sites
+Receptor Sites Former
 Reimplantation
-ResidualRidge
+Residual Ridge
 Resorption
 Ridge
-RidgeCrest
-ScrewImplant
-SecondStageSurgery
-SingleCrystalSapphire
-SiteFormer
-SpiralImplant
-SterileTechnique
+Ridge Crest
+Screw Implant
+Second Stage Surgery
+Single Crystal Sapphire
+Site Former
+Spiral Implant
+Sterile Technique
 Sterilization
 Stress
-SubmergedImplant
-SubperiostealImplant
+Submerged Implant
+Subperiosteal Implant
 Superstructure
-SurgicalJawRelation
-SurgicalOcclusionRim
-SuspensoryLigament
+Surgical Jaw Relation
+Surgical Occlusion Rim
+Suspensory Ligament
 Symphysis
-ThreeDimensionalImplant
+Three Dimensional Implant
 Toxicity
-TrialInserts
+Trial Inserts
 Trans-Osteal
-TricalciumPhosphate
+Tricalcium Phosphate
 Tuberosity,Maxillary
-TunnelDissection
-UnilateralSubperiostealImplant
-UniversalSubperiostealImplant
-VerticalEndostealImplant
+Tunnel Dissection
+Unilateral Subperiosteal Implant
+Universal Subperiosteal Implant
+Vertical Endosteal Implant
 Xenograft
 Zygoma

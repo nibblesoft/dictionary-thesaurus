@@ -1,5 +1,5 @@
 Accra
-AddisAbaba
+Addis Ababa
 Adelaide
 Aden
 Alexandria
@@ -29,7 +29,7 @@ Brisbane
 Brussels
 Bucharest
 Budapest
-BuenosAires
+Buenos Aires
 Cairo
 Calcutta
 Canberra
@@ -61,8 +61,8 @@ Hanoi
 Havanno
 Helsinki
 Hobart
-HoChiMinhCity
-HongKong
+Ho Chi Minh City
+Hong Kong
 Honolulu
 Houston
 Islamabad
@@ -75,7 +75,7 @@ Katmandu
 Khartoum
 Kingston
 Kinshasa
-KualaLumpur
+Kuala Lumpur
 Kuwait
 Kyoto
 Lagos
@@ -84,7 +84,7 @@ Leningrad
 Lima
 Lisbon
 London
-LosAngeles
+Los Angeles
 Lusaka
 Madras
 Madrid
@@ -92,7 +92,7 @@ Malta
 Manila
 Mauritius
 Melbourne
-MexicoCity
+Mexico City
 Miami
 Milan
 Montevideo
@@ -102,31 +102,31 @@ Munich
 Nairobi
 Nadi
 Naples
-NewOrleans
-NewYork
+New Orleans
+New York
 Nicosia
 Osaka
 Oslo
 Ottawa
-PanamaCity
+Panama City
 Paris
 Perth
 Philadelphia
 Pittsburgh
-PortMorsby
+Port Morsby
 Prague
 Pusan
 Pyongyang
 Quebec
-RiodeJaneiro
+Riode Janeiro
 Rome
 Rotterdam
-StLouis
-StLucia
-StPetersburg
-SanFrancisco
+St Louis
+St Lucia
+St Petersburg
+San Francisco
 Santiago
-SaoPaulo
+Sao Paulo
 Seoul
 Seychelles
 Shanghai

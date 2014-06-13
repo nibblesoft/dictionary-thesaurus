@@ -739,7 +739,7 @@ Bambie
 Bamby
 Bang
 Bao
-BaoMinh
+Bao Minh
 Barb
 Barbabra
 Barbara
@@ -1467,7 +1467,7 @@ Chickie
 Chicky
 Chie
 Chin
-ChinFui
+Chin Fui
 Ching-Long
 Chip
 Chiquia
@@ -1765,7 +1765,7 @@ Cristy
 Croix
 Crysta
 Crystal
-CrystalBay
+Crystal Bay
 Crystie
 Cthrine
 Cubical
@@ -1928,8 +1928,8 @@ Dayton
 Ddene
 De
 De-Anna
-DeAnne
-DeWayne
+De Anne
+De Wayne
 Dean
 Deana
 Deane
@@ -1955,7 +1955,7 @@ Dedie
 Dedra
 Dee
 Dee dee
-DeeAnn
+Dee Ann
 Deeann
 Deeanne
 Deedee
@@ -2988,7 +2988,7 @@ Geoff
 Geoffrey
 Georganne
 George
-GeorgeAnn
+George Ann
 Georgeanna
 Georgeanne
 Georgena
@@ -3539,11 +3539,11 @@ Hulst
 Humberto
 Humphrey
 Hung
-HungQuoc
+Hung Quoc
 Hunter
 Huong
 Huppert
-HuuLiem
+Huu Liem
 Huub
 Huy
 Huyen
@@ -3973,9 +3973,9 @@ Jo-Ann
 Jo-Marie
 Jo-ann
 Jo-anne
-JoAnne
-JoDee
-JoLee
+Jo Anne
+Jo Dee
+Jo Lee
 Joachim
 Joan
 Joana
@@ -4135,7 +4135,7 @@ Juliann
 Julianna
 Julianne
 Julie
-JulieAnne
+Julie Anne
 Julien
 Julienne
 Juliet
@@ -4706,7 +4706,7 @@ Layney
 Laz
 Lazlo
 Le
-LeRoy
+Le Roy
 Lea
 Leah
 Leandra
@@ -5010,7 +5010,7 @@ Lotti
 Lottie
 Lotty
 Lou
-LouAnn
+Lou Ann
 Louella
 Louie
 Louis
@@ -5462,9 +5462,9 @@ Mary-Jane
 Mary-Jo
 Mary-Michelle
 Mary-Pat
-MaryKay
-MaryLou
-MaryLynn
+Mary Kay
+Mary Lou
+Mary Lynn
 Marya
 Maryam
 Maryann
@@ -6952,7 +6952,7 @@ Rosanne
 Rosario
 Roscoe
 Rose
-RoseAnne
+Rose Anne
 Roseann
 Roseanna
 Roseanne
@@ -7534,7 +7534,7 @@ Spiros
 Srinivas
 Sriranjani
 Sriv
-StClair
+St Clair
 Stace
 Stacee
 Stacey
@@ -8277,8 +8277,8 @@ Vries
 Vrinda
 Vrouwerff
 Vu
-VuHoan
-VuQuoc
+Vu Hoan
+Vu Quoc
 Vyky
 Vyza
 Wade
@@ -8469,7 +8469,7 @@ Yeung
 Yevette
 Yih
 Yihban
-YikHon
+Yik Hon
 Ying
 Ylaine
 Ynes

@@ -1,113 +1,113 @@
-RubaiyatAfghans
-AkbashDog
+Rubaiyat Afghans
+Akbash Dog
 Akita
-AlaskanMalamute
-AmericanEskimo
-AmericanWaterSpaniel
-AppenzellCattleDog
-AustralianCattleDog
-AustralianKelpie
-AustralianSilkyTerrier
-AustralianTerrier
+Alaskan Malamute
+American Eskimo
+American Water Spaniel
+Appenzell Cattle Dog
+Australian Cattle Dog
+Australian Kelpie
+Australian Silky Terrier
+Australian Terrier
 Barb
 Basenji
-BassetHound
-BeardedCollie
-BedlingtonTerrier
-BelgianSheepdog
-BerneseMountainDog
+Basset Hound
+Bearded Collie
+Bedlington Terrier
+Belgian Sheepdog
+Bernese Mountain Dog
 Bloodhound
 Bluemerle
 Bluntmuzzle
-BorderCollie
-BorderTerrier
+Border Collie
+Border Terrier
 Borzoi
-BouvierdesFlandres
+Bouvierdes Flandres
 Boxer
 Briard
-BrittanySpaniel
+Brittany Spaniel
 Bulldog
 Bullmastiff
-BullTerrier
-CairnTerrier
+Bull Terrier
+Cairn Terrier
 Canine
-CaodeAgua
-CaucasianOvcharka
-CavalierKingCharlesSpaniel
-ChesapeakeBayRetriever
-ChesapeakeBayRetrieverFAQ
+Caode Agua
+Caucasian Ovcharka
+Cavalier King Charles Spaniel
+Chesapeake Bay Retriever
+Chesapeake Bay Retriever FAQ
 Chihuahua
-ChowChow
-ClydesdaleTerrier
-CockerSpaniel
+Chow Chow
+Clydesdale Terrier
+Cocker Spaniel
 Collie
 Dachshund
 Dalmatian
-DandieDinmontTerrier
+Dandie Dinmont Terrier
 Dingo
 Doberman
-DoguedeBordeaux
-DutchShepherdDog
-EnglishSetter
-EntlebucherCattleDog
-EntlebucherSennenhund
-EntlebuchMountainDog
+Doguede Bordeaux
+Dutch Shepherd Dog
+English Setter
+Entlebucher Cattle Dog
+Entlebucher Sennenhund
+Entlebuch Mountain Dog
 Eurasier
-GermanShepherdDog
-GermanShorthairedPointer
-GermanWirehairedPointer
-GoldenRetriever
-GordonSetter
-GreaterSwissMountainDog
-GreatPyrenees
+German Shepherd Dog
+German Shorthaired Pointer
+German Wirehaired Pointer
+Golden Retriever
+Gordon Setter
+Greater Swiss Mountain Dog
+Great Pyrenees
 Greyhound
 Gundogs
 Havanese
 Hound
-HungarianVizlas
-IrishSetter
-JackRussellTerrier
-KerryBlueTerrier
+Hungarian Vizlas
+Irish Setter
+Jack Russell Terrier
+Kerry Blue Terrier
 Kuvasz
-LabradorRetriever
-LhasaApso
+Labrador Retriever
+Lhasa Apso
 Mastiff
-MiniaturePinscher
-NeapolitanMastiff
+Miniature Pinscher
+Neapolitan Mastiff
 Newfoundland
-NorwegianElkhound
-NovaScotiaDuckTollingRetriever
-OldEnglishSheepdog
+Norwegian Elkhound
+Nova Scotia Duck Tolling Retriever
+Old English Sheepdog
 Papillon
 Pekingese
-PharaohHound
+Pharaoh Hound
 Pinscher
 Pointer
 Pomeranian
 Poodle
-PortugueseWaterDog
+Portuguese Water Dog
 Pug
-RhodesianRidgeback
+Rhodesian Ridgeback
 Rottweiler
-SaintBernard
+Saint Bernard
 Saluki
 Samoyed
 Schapendoes
 Schipperke
-SchweizerLaufhund
-SwissHound
-SchweizerNiederlaufhund
+Schweizer Laufhund
+Swiss Hound
+Schweizer Niederlaufhund
 Setters
 Shar-Pei
-ShetlandSheepdog
-SiberianHusky
-SwedishVindelnRiverDog
+Shetland Sheepdog
+Siberian Husky
+Swedish Vindeln River Dog
 Spaniels
-StaffordshireBullTerrier
-SwissHound
+Staffordshire Bull Terrier
+Swiss Hound
 Terriers
-TibetanMastiff
+Tibetan Mastiff
 Weimaraner
-WelshCorgi
-WestHighlandWhiteTerrier
-YorkshireTerrier
+Welsh Corgi
+West Highland White Terrier
+Yorkshire Terrier

@@ -8,46 +8,46 @@ Alluvium
 Anabranch
 Anadromous
 Appropriation
-AppropriationProcess
-AppropriativeRights
+Appropriation Process
+Appropriative Rights
 Appurtenant
 Aquiclude
 Aquifer
-ArchDam
-ArmouredRiverbed
-ArtesianWell
+Arch Dam
+Armoured Riverbed
+Artesian Well
 Bank
-BankStorage
-BankfullStage
+Bank Storage
+Bankfull Stage
 Barrage
-BaseRiverFlow
+Base River Flow
 Basin
-BasinIrrigation
-BeneficialUse
+Basin Irrigation
+Beneficial Use
 Benthic
 Biome
 Breach
-ButtressDam
-BypassedReach
-BypassSystem
-CanalIrrigation
+Buttress Dam
+Bypassed Reach
+Bypass System
+Canal Irrigation
 Capacity
-CapillaryFringe
+Capillary Fringe
 Catadromous
 Channel
 Channelization
-CleanWaterAct(CWA)
-ClimaticYear
-CofferDam
+Clean Water Act(CWA)
+Climatic Year
+Coffer Dam
 Conservation
-ConsumptiveUse
-ContaminantPlume
+Consumptive Use
+Contaminant Plume
 Creek
 Crest
-CriticalAreas
-CubicFeetperSecond(CFS)
+Critical Areas
+Cubic Feetper Second(CFS)
 Dam
-DamFailure
+Dam Failure
 Decommissioning
 Degradation
 Delta
@@ -55,136 +55,136 @@ Designated
 Discharge
 Distributary
 Diversion
-DownstreamFishPassage
-DownstreamSlope
+Downstream Fish Passage
+Downstream Slope
 Drawdown
 Dredging
 Drift
-DripIrrigation
+Drip Irrigation
 Earthendam
 Easement
 Ecotone
 Effluent
 Embankment
-EmergencyActionPlan
-EminentDomain
-EndangeredSpecies
-EphemeralGlow
+Emergency Action Plan
+Eminent Domain
+Endangered Species
+Ephemeral Glow
 Epilimnion
 Erosion
-EsturineWaters
-EsturineZone
+Esturine Waters
+Esturine Zone
 Estuary
 Eutrophication
 Evapotranspiration
 Face
-FederalEmergencyMA
-FederalEnergyRC
-FillDam
-FishEntrainment
-FishLadder
-FishPassage
+Federal Emergency MA
+Federal Energy RC
+Fill Dam
+Fish Entrainment
+Fish Ladder
+Fish Passage
 Flashboards
-FlashFlood
+Flash Flood
 Flood
-FloodControl
-FloodCropping
-FloodManagement
-FloodRecessionAgric.
-FloodStage
+Flood Control
+Flood Cropping
+Flood Management
+Flood Recession Agric.
+Flood Stage
 Floodplain
 Floodwall
 Floodway
-FloodwayFringe
+Floodway Fringe
 Flow
-FlowAugmentation
+Flow Augmentation
 Forebay
 Free-flowing
 Fry
 Gate
 Generation
-GravityDam
-GroundWater
-HardWater
+Gravity Dam
+Ground Water
+Hard Water
 Head
-HeadPond
+Head Pond
 Headwaters
 Hydro
-HydroelectricGeneration
+Hydroelectric Generation
 Hydrograph
-HydrologicBudget
-HydrologicCycle
+Hydrologic Budget
+Hydrologic Cycle
 Hydrology
 Hypolimnion
 Impoundment
-InstreamFlow
-InstreamRight
-InstreamUse
+Instream Flow
+Instream Right
+Instream Use
 Intake
-InundationMap
+Inundation Map
 Irrigation
-JustCompensation
+Just Compensation
 Juvenile
 Kilowatt
 Kilowatt-Hour
-LaserLevel
+Laser Level
 Levee
-LittoralZone
-LiveStorage
+Littoral Zone
+Live Storage
 Lock
-LosingStream
+Losing Stream
 Mainstem
-MeanAnnualFlood
+Mean Annual Flood
 Megawatt
 Megawatt-hour
 Microcatchments
-MinimumFlow
+Minimum Flow
 Mitigation
 Navigability
 Nondegradation
-Non-pointSourcePollution
+Non-point Source Pollution
 Overdraft
-OutstandingRiversList
-PeakingOperation
-PerrenialFlow
+Outstanding Rivers List
+Peaking Operation
+Perrenial Flow
 Permeability
 Pluvial
-PointSourcePollution
-PotableWater
-ProbableMaximumFlood
-ProtectedFlow
-PublicTrustDocument
-PumpedStoragePlant
+Point Source Pollution
+Potable Water
+Probable Maximum Flood
+Protected Flow
+Public Trust Document
+Pumped Storage Plant
 Quantification
-RainwaterHarvesting
+Rainwater Harvesting
 Ramping
 Reach
 Recharge
-RegulatedRiver
+Regulated River
 Relicensing
-ReservationofWaterRight
+Reservationof Water Right
 Reservoir
-ResidentFish
+Resident Fish
 Riffles
 Riparian
-RiparianHabitat
-Riparian-useDoctrine
-RiparianZone
+Riparian Habitat
+Riparian-use Doctrine
+Riparian Zone
 River
-RiverBasin
-RiverMouth
-RiverineEcosystem
-RiverineFish
-RockfillDam
+River Basin
+River Mouth
+Riverine Ecosystem
+Riverine Fish
+Rockfill Dam
 Run-of-the-riverdam
 Runoff
-SafeYield
+Safe Yield
 Salinization
-ScenicRiver
+Scenic River
 Sediment
-SedimentFlushing
+Sediment Flushing
 Sediment Load
-SedimentSluicing
+Sediment Sluicing
 Silt
 Sluice
 Smolt
@@ -194,30 +194,30 @@ Spill
 Spillway
 Storage Reservoirs
 Stream Adjudication
-StreamBed
+Stream Bed
 Streamflow
 Superfund
 Tailrace
 Tailwater
 Taking
-ThermalPollution
+Thermal Pollution
 Tributary
 Turbidity
 Turbine
 Underflow
 Upstreamfishpassage
-VadoseZone
+Vadose Zone
 Water Demand
-WaterFarm
-WaterQuality
+Water Farm
+Water Quality
 Waterrights
 Watercourse
 Waterlogging
-WaterTable
-WaterYear
+Water Table
+Water Year
 Watt
 Weir
 Wetland
-WildandScenicRiversAct
+Wildand Scenic Rivers Act
 Wild River
 Winter's Doctrine

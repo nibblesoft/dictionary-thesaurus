@@ -59,7 +59,7 @@ Newbie
 Online
 Portable Document Format
 Plug-In
-PostQuery
+Post Query
 Quick Time Video
 Radio Button
 Rules

@@ -1,46 +1,46 @@
-AbdominalMuscles
-AchillesTendon
-AcuteEpisode
-AerobicExercise
+Abdominal Muscles
+Achilles Tendon
+Acute Episode
+Aerobic Exercise
 AIDS
 Allergens
-AlteredImmuneResponse
+Altered Immune Response
 Amniocentesis
-AmnioticFluid
-AmnioticSac
+Amniotic Fluid
+Amniotic Sac
 Anemic
 Anesthesia
-AntiCoagulants
+Anti Coagulants
 Antibiotics
 Antibodies
 Antihistamine
 Areola
 Asthma
-AtopicDermatitis
-BacterialInfection
-BagofWaters
-BetaBlockers
-BloodPressure
-BloodVessels
-BrachialArtery
+Atopic Dermatitis
+Bacterial Infection
+Bagof Waters
+Beta Blockers
+Blood Pressure
+Blood Vessels
+Brachial Artery
 Calcium
-CarotidArtery
-CerebrovascularDisease
-CervicalCancer
+Carotid Artery
+Cerebrovascular Disease
+Cervical Cancer
 Cervix
-CesareanBirth
+Cesarean Birth
 Chemotherapy
 Chlamydia
 Chromosomes
-ChronicIllness
+Chronic Illness
 Circumcision
-ColorectalCancer
-ColorectalScreening
+Colorectal Cancer
+Colorectal Screening
 Colostrum
 Compresses
 Constipation
 Contractions
-CoughSuppressant
+Cough Suppressant
 Danders
 Decongestants
 Dehydration
@@ -50,21 +50,21 @@ Diphtheria
 Discharge
 Diuretic
 Douche
-Down'sSyndrome
-DueDate
+Down's Syndrome
+Due Date
 Eczema
 Effacement
 Embryo
 Emphysema
-EpiduralAnesthetic
+Epidural Anesthetic
 Episiotomy
 Esophagus
 Estimateddateofconfinement(EDC)
 Evaporation
-FastingPlasmaGlucose
-FetalMovement
+Fasting Plasma Glucose
+Fetal Movement
 Fetus
-FirstStageofLabor
+First Stageof Labor
 Forceps
 Foreskin
 Frostbite
@@ -72,22 +72,22 @@ Fundus
 Gastrointestinal
 Genital
 Gestation
-GestationalDiabetes
+Gestational Diabetes
 Glands
 Glaucoma
 Gonorrhea
 Hamstring
-HayFever
+Hay Fever
 HDL
-HeartMurmur
+Heart Murmur
 Heartburn
-HemolyticDisease
+Hemolytic Disease
 Hemorrhoids
 Hepatitis
-HepatitisB
-HepatitisBVaccine
+Hepatitis B
+Hepatitis BVaccine
 Herpes
-HighBloodPressure
+High Blood Pressure
 Histamine
 HIV
 Hoarseness
@@ -96,8 +96,8 @@ Humidifier
 Hypersensitivity
 Hypertension
 Hysterectomy
-ImmuneSystem
-IncompetentCervix
+Immune System
+Incompetent Cervix
 Influenza
 Insulin
 Intestines
@@ -107,82 +107,82 @@ Jaundice
 Labor
 Laryngitis
 Lesions
-LetDown
+Let Down
 Ligaments
 Lightening
-LowPlacenta
+Low Placenta
 Mammogram
 Meconium
 Membranes
 Menopause
 Microorganisms
 Miscarriage
-MonamineOxidaseInhibitors
+Monamine Oxidase Inhibitors
 Muscles
 Nerves
 Obese
-ObstructiveLungDisease
+Obstructive Lung Disease
 Organism
 Ovaries
-PapSmear
-PelvicExamination
+Pap Smear
+Pelvic Examination
 Pelvis
 Perineum
 Placenta
-PneumococcalVaccine
+Pneumococcal Vaccine
 Postpartum
-PresentingPart
-ProductiveCough
+Presenting Part
+Productive Cough
 Prostategland
 Protein
 Quickening
-RadialArtery
+Radial Artery
 Rash
 Relaxin
-RhFactor
+Rh Factor
 Rubella
-RupturedMembranes
+Ruptured Membranes
 Saliva
-ScarTissue
+Scar Tissue
 Shock
-SickleCellAnemia
-SickleCellTrait
-SilentCarriers
+Sickle Cell Anemia
+Sickle Cell Trait
+Silent Carriers
 Spasm
 Spinalinjury
 Spine
 Sterilization
 Stethoscope
 Stomach
-StrepThroat
-StreptococcalBacteria
-SwollenGlands
+Strep Throat
+Streptococcal Bacteria
+Swollen Glands
 Syphilis
-TaySachsDisease
+Tay Sachs Disease
 Testes
 Tetanus
-TetanusDiphtheriaBooster
+Tetanus Diphtheria Booster
 Thalassemia
 Toxemia
 Tranquilizers
 Trimester
-TuberculinSkinTest
+Tuberculin Skin Test
 Tubules
 Tumor
 Ultrasound
-UmbilicalCord
-UterineBorders
+Umbilical Cord
+Uterine Borders
 Uterus
 Vaccine
-VacuumExtractor
+Vacuum Extractor
 Vagina
-VaginalDelivery
-VaginalDischarge
-VaginalSpotting
+Vaginal Delivery
+Vaginal Discharge
+Vaginal Spotting
 Vaporizer
-VaricoseVeins
-VernixCaseosa
-ViralInfection
+Varicose Veins
+Vernix Caseosa
+Viral Infection
 Wheezing
 Womb
-YeastInfection
+Yeast Infection

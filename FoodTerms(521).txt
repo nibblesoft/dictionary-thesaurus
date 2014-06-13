@@ -4,29 +4,29 @@ Au
 Aux
 Abalone
 Achar
-AcidulatedWater
+Acidulated Water
 Adobo
-AdzukiBeans
+Adzuki Beans
 Agnolotti
 Aiguillette
 Ail
 Aioli
 Ajo
-AlCarbon
-AlDente
-AlForno
-AlPastor
+Al Carbon
+Al Dente
+Al Forno
+Al Pastor
 Albumen
 Alfredo
 Allemande
-AlmondPaste
+Almond Paste
 Amandine
 Amchoor
 Anchoiade
 Andouille
 Angelica
-AnnaPotatoes
-AnnattoSeed
+Anna Potatoes
+Annatto Seed
 Antipasto
 Arrowroot
 Arroz
@@ -37,26 +37,26 @@ Aubergine
 Aurore
 Baba
 Baekenhofe
-BagnaCauda
+Bagna Cauda
 Bain
-BakedAlaska
-BakingPowder
-BakingSoda
+Baked Alaska
+Baking Powder
+Baking Soda
 Baklava
 Ballottine
-BalsamicVinegar
+Balsamic Vinegar
 Bangers
 Barding
 Barquette
 Basquaise
-BavarianCream
+Bavarian Cream
 Bearnaise
-BechamelSauce
+Bechamel Sauce
 Beignet
-BelleHelene
-BenneSeeds
-BeurreBlanc
-BeurreManie
+Belle Helene
+Benne Seeds
+Beurre Blanc
+Beurre Manie
 Biscotti
 Bisque
 Bistella
@@ -65,13 +65,13 @@ Blanquette
 Blini
 Blintz
 Boletus
-BollitoMisto
+Bollito Misto
 Bordelaise
 Borscht
 Bouchee
 Boudin
 Bouillabaisse
-BouquetGarni
+Bouquet Garni
 Bourguignonne
 Bourride
 Bran
@@ -89,7 +89,7 @@ Butter
 Buttermilk
 Calabacita
 Calamari
-CaldoVerde
+Caldo Verde
 Calzone
 Canape
 Cannelloni
@@ -106,7 +106,7 @@ Cardoon
 Carob
 Carpaccio
 Cassoulet
-CaulFat
+Caul Fat
 Caviar
 Celeriac
 Cepes
@@ -127,7 +127,7 @@ Chiboust
 Chicharron
 Chiffonade
 Chilaquiles
-ChiliRellenos
+Chili Rellenos
 Chinois
 Chipotle
 Chive
@@ -139,13 +139,13 @@ Chutney
 Cioppino
 Civet
 Clafouti
-ClottedCream
+Clotted Cream
 Cock
-CocoaPowder
-CoconutMilk
-CoeuràlaCrème
-CoeurelaCreme
-CollardGreens
+Cocoa Powder
+Coconut Milk
+Coeuràla Crème
+Coeurela Creme
+Collard Greens
 Colombo
 Compote
 Concasse
@@ -153,8 +153,8 @@ Conchiglie
 Confit
 Consomme
 Coppa
-CoqauVin
-CornSyrup
+Coqau Vin
+Corn Syrup
 Cotechino
 Coulibiac
 Coulis
@@ -164,10 +164,10 @@ Couscous
 Couscous
 Crackling
 Cream
-CremeAnglaise
-CremeCaramel
-CremeFraiche
-CremePatissierre
+Creme Anglaise
+Creme Caramel
+Creme Fraiche
+Creme Patissierre
 Crepaze
 Crepe
 Crepinette
@@ -179,8 +179,8 @@ Crostini
 Croutons
 Crudite
 Culatello
-CumberlandSauce
-CurryPowder
+Cumberland Sauce
+Curry Powder
 Cuttlefish
 Dacquoise
 Daikon
@@ -192,42 +192,42 @@ Dauphine
 Dauphinoise
 Deglaze
 Demi
-DevonCream
+Devon Cream
 Dijonnaise
-DimSum
+Dim Sum
 Ditalini
 Dolma
-DryAging
+Dry Aging
 Duchess
 Durian
 Duxelle
 Effiler
-EggThreads
+Egg Threads
 Emincer
 Empanada
 Entrecote
 Escabeche
 Escalope
-EspagnoleSauce
+Espagnole Sauce
 Falafel
 Farfalle
-FavaBean
+Fava Bean
 Feijoa
 Feijoada
-FenBerry
+Fen Berry
 Fenugreek
 Fettuccine
 Ficelle
 Financier
-FinesHerbes
-FinnanHaddie
-FiveSpicePowder
+Fines Herbes
+Finnan Haddie
+Five Spice Powder
 Flan
 Fleuron
 Florentine
 Flour
 Focaccio
-FoieGras
+Foie Gras
 Fondant
 Fondue
 Fonduta
@@ -237,15 +237,15 @@ Frangipane
 Fricassee
 Frittata
 Fritter
-FrittoMisto
-FruitPectin
+Fritto Misto
+Fruit Pectin
 Fugu
 Fumet
 Fusilli
 Galanga
 Galantine
 Galette
-GaramMasala
+Garam Masala
 Gazpacho
 Gelatin
 Gelato
@@ -259,7 +259,7 @@ Goulash
 Granita
 Granola
 Gratin
-GravadLax
+Gravad Lax
 Grecque
 Gremolata
 Grissini
@@ -267,15 +267,15 @@ Gruyere
 Guacamole
 Gumbo
 Harissa
-HoisinSauce
-HollandaiseSauce
-HornofPlentyMushroom
+Hoisin Sauce
+Hollandaise Sauce
+Hornof Plenty Mushroom
 Hyssop
 Infusion
 Involtini
 Iplermagronen
 Jambalaya
-JerusalemArtichoke
+Jerusalem Artichoke
 Jicama
 Julienne
 Jus
@@ -295,13 +295,13 @@ Lasagna
 Lassi
 Lefse
 Liaison
-LimousinBeef
+Limousin Beef
 Linguine
 Linzertorte
-LobsterMushroom
+Lobster Mushroom
 Lutefisk
 Lychee
-LyonnaiseSauce
+Lyonnaise Sauce
 Lyonnaiseàla
 Macaire
 Macaroon
@@ -310,14 +310,14 @@ Macerate
 Mache
 Madeleine
 Magret
-MaitredHotelButter
+Maitred Hotel Butter
 Marengo
 Margarine
 Marzipan
 Mascarpone
 Matafan
 Matelote
-MatjesHerring
+Matjes Herring
 Mayonnaise
 Melba
 Menudo
@@ -330,41 +330,41 @@ Mincemeat
 Minestrone
 Mirepoix
 Mirin
-MiseenPlace
+Miseen Place
 Miso
 Molasses
 Mole
-MonosodiumGlutamate
-MorelMushroom
-MornaySauce
+Monosodium Glutamate
+Morel Mushroom
+Mornay Sauce
 Mortadella
-MostardadiCremona
+Mostardadi Cremona
 Moussaka
 Mousse
 Mousseline
-MousseronMushroom
+Mousseron Mushroom
 Mulligatawny
 Nage
 Nantua
 Navarin
 Nicoise
 Noisette
-NoisetteButter
-NoriSeaweed
+Noisette Butter
+Nori Seaweed
 Nougat
 Nougatine
 Nuoc
 Nutella
 Oeuf
-OeufalaNeige
-OliveOil
+Oeufala Neige
+Olive Oil
 Olives
 Opakapaka
 Orzo
 Oseille
-OssoBuco
+Osso Buco
 Ouzo
-OysterMushroom
+Oyster Mushroom
 Paella
 Paillard
 Palmier
@@ -376,14 +376,14 @@ Panino
 Pannetone
 Panzanella
 Pappardelle
-PasillaChiliPepper
-PastaeFagioli
+Pasilla Chili Pepper
+Pastae Fagioli
 Pastilla(Bistella)
-PastryCream
+Pastry Cream
 Pâté
 Pâté
 PâtéChoux
-PâtéaFoncer
+Pâtéa Foncer
 PâtéBrisée
 PâtéFeuilletae
 PâtéSablée
@@ -393,12 +393,12 @@ Penne
 Perilla
 Persillade
 Pesto
-PetitFour
-PicodeGallo
+Petit Four
+Picode Gallo
 Piroshki
 Pissaladiere
-PitaBread
-PoblanoChiliPepper
+Pita Bread
+Poblano Chili Pepper
 Polenta
 Posole
 Praline
@@ -406,7 +406,7 @@ Profiterole
 Prosciutto
 Pumate
 Puttanesca
-PyramideCheese
+Pyramide Cheese
 Quahog
 Quatre
 Quenelle
@@ -416,7 +416,7 @@ Quince
 Quinoa
 Radicchio
 Ragout
-RaselHanout
+Rasel Hanout
 Ratatouille
 Ravioli
 Remoulade
@@ -433,7 +433,7 @@ Roux
 Sabayon
 Sable
 Saffron
-SaltCod
+Salt Cod
 Saltimbocca
 Saltpeter
 Sambuca
@@ -444,27 +444,27 @@ Satay
 Savarin
 Scampi
 Scone
-SeaUrchin
+Sea Urchin
 Semifreddo
 Semolina
 Seviche
 Shortbread
 Shoyu
-SkateWings
+Skate Wings
 Smorgasbord
-SobaNoodle
+Soba Noodle
 Sorrel
-SoySauce
+Soy Sauce
 Spatzle
 Speck
 Spiedini
-SpringRoll
+Spring Roll
 Stock
 Strudel
-SugarSyrup
+Sugar Syrup
 Sweetbread
 Syllabub
-TabascoSauce
+Tabasco Sauce
 Tabbouleh
 Tagine
 Tagliarini
@@ -474,14 +474,14 @@ Tamarind
 Tapenade
 Taramasalata
 Tartare
-TarteFlambé
-TarteTatin
+Tarte Flambé
+Tarte Tatin
 Terrine
 Tiramisu
-ToadintheHole
+Toadinthe Hole
 Tocino
 Tofu
-TortaRustica
+Torta Rustica
 Tortellini
 Tortelloni
 Tortilla
@@ -492,7 +492,7 @@ Tripe
 Truffle
 Tuiles
 Tumeric
-TzatzikiSauce
+Tzatziki Sauce
 Tzimmes
 Udon
 Ugli
@@ -503,20 +503,20 @@ Vermicelli
 Vichyssoise
 Victual
 Vinaigrette
-VitelloTonnato
+Vitello Tonnato
 Vol
 Wasabi
-WaterBath
+Water Bath
 Waterzooi
-WelshRarebit
+Welsh Rarebit
 Whelk
-WienerSchnitzel
-WorcestershireSauce
-XanthanGum
+Wiener Schnitzel
+Worcestershire Sauce
+Xanthan Gum
 Yakitori
 Yeast
 Zabaglione
 Zakuski
 Zampone
 Zuccotto
-ZuppaInglese
+Zuppa Inglese

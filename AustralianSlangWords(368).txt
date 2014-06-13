@@ -197,7 +197,7 @@ Knocker
 Lair
 Lairitup
 Larrikin
-tohaveaLendof
+tohavea Lendof
 Lippy
 Liquidlaugh
 Lizarddrinking
@@ -206,18 +206,18 @@ lobin
 Lollies
 Londontoabrick
 Loo
-TheLuckyCountry
-whoopenedtheirLunch?
+The Lucky Country
+whoopenedtheir Lunch?
 Lurk
 Maccas
 Malleebull
-MappaTassie
+Mappa Tassie
 Mate
 Mate'srate
 mate'sdiscount
 Metho
 Mexican
-MickeyMouse
+Mickey Mouse
 Middy
 Milkbar
 Milko
@@ -229,8 +229,8 @@ Muddy
 Mug
 Mull
 Muster
-haveaNaughty
-NeverNever
+havea Naughty
+Never Never
 Nipper
 No-hoper
 fullquid
@@ -250,7 +250,7 @@ Pieceofpiss
 Pig'sarse!
 Piker
 Piss
-BringaPlate
+Bringa Plate
 Plonk
 Pokies
 Polly
@@ -263,8 +263,8 @@ Postie
 Pot
 Pozzy
 Prezzy
-makeaQuid
-fullQuid
+makea Quid
+full Quid
 Rackoff
 Rage
 Rageon
@@ -287,8 +287,8 @@ Ropeable
 Rort
 Rotten
 Rubbish
-theSalvos
-AussieSalute
+the Salvos
+Aussie Salute
 Sandgroper
 Sanger
 Sav
@@ -322,8 +322,8 @@ Strides
 Strine
 Stubby
 Stubbyholder
-I'llbeStuffed
-IfeelStuffed
+I'llbe Stuffed
+Ifeel Stuffed
 Sunbake
 Sunnies
 Surfies
@@ -340,7 +340,7 @@ Tickets
 Tinny
 Togs
 Tooright!
-TopEnd
+Top End
 Trackies
 Truckie
 Trueblue
@@ -352,7 +352,7 @@ Twoup
 Uni
 Unit
 Uponeself
-getUpsomebody
+get Upsomebody
 titsonabull
 ashtrayonamotorbike
 Ute
@@ -361,14 +361,14 @@ Vedgies
 Vejjo
 Veedub
 Wagginschool
-GoneWalkabout
+Gone Walkabout
 Whinge
 White-ant
 Whitepointers
 Wobbly
 Wog
 Wombat
-WoopWoop
+Woop Woop
 Wowser
 XXXX
 Yabber
