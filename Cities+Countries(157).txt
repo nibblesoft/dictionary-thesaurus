@@ -1,7 +1,7 @@
 ﻿157 x Capitals + Countries
 	
 Accra		Ghana
-Addis Ababa		Ethiopa
+Addis Ababa	Ethiopa
 Adelaide	Australia
 Aden		South Yemen
 Alexandria	Egypt
@@ -26,7 +26,7 @@ Bissau		Guinea-Bissau
 Bogota		Colombia
 Bombay		India
 Boston		USA
-Brazzaville		Congo
+Brazzaville	Congo
 Brisbane	Australia
 Brussels	Belgium
 Bucharest	Rumania
@@ -36,7 +36,7 @@ Cairo		Egypt
 Calcutta	India
 Canberra	Australia
 Caracas		Venezeula
-Cassablanca		Morocco
+Cassablanca	Morocco
 Chicago		USA
 Chongqing	China
 Cologne		Germany
@@ -86,7 +86,7 @@ Leningrad	USSR
 Lima		Peru
 Lisbon		Portugal
 London		UK
-Los Angeles		USA
+Los Angeles	USA
 Lusaka		Zambia
 Madras		India
 Madrid		Spain
@@ -94,7 +94,7 @@ Malta		Malta
 Manila		Phillippines
 Mauritius	Mauritius
 Melbourne	Australia
-Mexico City		Mexico
+Mexico City	Mexico
 Miami		USA
 Milan		Italy
 Montevideo	Uruguay
@@ -104,18 +104,18 @@ Munich		Germany
 Nadi		Fiji
 Nairobi		Kenya
 Naples		Italy
-New Orleans		USA
+New Orleans	USA
 New York	USA
 Nicosia		Cyprus
 Osaka		Japan
 Oslo		Norway
 Ottawa		Canada
-Panama City		Panama
+Panama City	Panama
 Paris		France
 Perth		Australia
 Philadelphia	USA
 Pittsburgh	USA
-Port Morsby		PNG
+Port Morsby	PNG
 Prague		Czechoslovakia
 Praia		Cape-Verde
 Pusan		South Korea
