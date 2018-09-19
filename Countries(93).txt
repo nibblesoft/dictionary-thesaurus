@@ -1,4 +1,4 @@
-﻿Afghanistan
+Afghanistan
 Algeria
 Argentina
 Australia
@@ -28,6 +28,7 @@ Germany
 Ghana
 Gibralta
 Greece
+Guinea-Bissau
 Guyana
 Hong Kong
 Hungary
